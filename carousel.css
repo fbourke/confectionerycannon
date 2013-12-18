@@ -114,6 +114,7 @@ myCarousel{
   z-index: 10;
   color: #eee;
   text-shadow: 0 3px 4px rgba(0, 0, 0, .8);
+  font-weight: 700;
 }
 /* Declare heights because of positioning of img element */
 .carousel .item {
