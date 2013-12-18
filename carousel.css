@@ -10,11 +10,11 @@ body {
 }
 
 .lead {
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .bio {
-  font-weight: 200;
+  font-weight: 400;
 }
 @font-face {
   font-family: "Lavanderia";
