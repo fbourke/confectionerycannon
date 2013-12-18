@@ -10,9 +10,12 @@ body {
 }
 
 .lead {
-  font-weight: 400;
+  font-weight: 300;
 }
 
+.bio {
+  font-weight: 200;
+}
 @font-face {
   font-family: "Lavanderia";
     src: url("http://typefront.com/fonts/825591970.eot");
