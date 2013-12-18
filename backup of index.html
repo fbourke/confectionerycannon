@@ -7,16 +7,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
-    <link href="//fonts.googleapis.com/css?family=Lato:100italic,100,300italic,300,400italic,400,700italic,700,900italic,900" rel="stylesheet" type="text/css">
-    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 
-
-<!-- SAARTH SUCKS -->
-
-    <title>Confectionery Cannon - Olin College POE 2013</title>
+    <title>Carousel Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="dist/css/bootstrap.css" rel="stylesheet">
+    <link href="../../dist/css/bootstrap.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -33,7 +28,7 @@
 <!-- NAVBAR
 ================================================== -->
   <body>
-    <!-- <div class="navbar-wrapper">
+    <div class="navbar-wrapper">
       <div class="container">
 
         <div class="navbar navbar-inverse navbar-static-top" role="navigation">
@@ -45,14 +40,25 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Confectionery Cannon</a>
+              <a class="navbar-brand" href="#">Project name</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#software">Software</a></li>
-                <li><a href="#Mechanical">Mechanical</a></li>
+                <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                  </ul>
+                </li>
               </ul>
             </div>
           </div>
@@ -60,7 +66,7 @@
 
       </div>
     </div>
- -->
+
 
     <!-- Carousel
     ================================================== -->
@@ -73,30 +79,31 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="banner1.jpg" alt="First slide">
+          <img data-src="holder.js/900x500/auto/#777:#7a7a7a/text:First slide" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Welcome!</h1>
-              <p>We're a team of four Olin College students and this is the website for our marshmallow-launching Confectionery Cannon.</p>
+              <h1>Example headline.</h1>
+              <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="banner2.jpg" alt="Second slide">
+          <img data-src="holder.js/900x500/auto/#666:#6a6a6a/text:Second slide" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Have a look at our mechanical design!</h1>
-              <p>The Confectionery Cannon was designed primarily in Solidworks and fabricated entirely on campus at Olin.</p>
+              <h1>Another example headline.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img src="banner3.jpg" alt="Third slide">
+          <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Third slide" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Check out our code!</h1>
-              <p>The Confectionery Cannon was programmed using Python and Arduino C; it uses OpenCV for face tracking.</p>
+              <h1>One more for good measure.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
             </div>
           </div>
@@ -111,47 +118,29 @@
     <!-- Marketing messaging and featurettes
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
-    <div class="jumbotron">
-      <div class="container">
-        <h1>Confectionery Cannon</h1>
-      </div>
-    </div>
 
     <div class="container marketing">
+
       <!-- Three columns of text below the carousel -->
       <div class="row">
-        <div class="col-lg-3">
-          <center>
-          <img src="forrest_headshot.jpg" class="img-circle"  alt="Generic placeholder image">
-          <h2>Forrest Bourke</h2>
-          <h3>'16, ECE</h3>
-          <p>Forrest was once told by a Nordstrom employee that he's "too fashion conscious." When he's not checking himself out or fixing his hair, he knows how to spend class time un-wisely. Yet, he is loved by his professors who, according to Dr. Aaron Hoffman, find him "on the whole, more amusing than insubordinate."</p>
-          </center>
-        </div><!-- /.col-lg-3 -->
-        <div class="col-lg-3">
-          <center>
-          <img class="img-circle" src="saarth_headshot.jpg" alt="Generic placeholder image">
-          <h2>Saarth Mehrotra</h2>
-          <h3>'16, ECE</h3>
-          <p>The best looking member on the team, Saarth enjoys long walks on the beach and candle-lit dinners, but only in his spare time when he's not writing team bios. As a fan of buzzwords, he has made the team ten times more lean, innovative, and agile. With the eventual goal of taking over the world, he has promised his other three team members position on his cabinet of anarchy. </p>
-          </center>
-        </div><!-- /.col-lg-3 -->
-        <div class="col-lg-3">
-          <center>
-          <img class="img-circle" src="searing_headshot.jpg" alt="Generic placeholder image">
-          <h2>Michael Searing</h2>
-          <h3>'16, MechE</h3>
-          <p>His closest peers refer to him by just his last name, Searing. He's the type of person that would buy 100 grams of magnesium just for fun; if you're a member of the FBI or US Customs, it's for dietary supplementation. Known as the team bully, he motivated us by exploiting our physical and emotional weaknesses. Also, he has a white patch of hair on his head and it looks silly, hehe.  </p>
-          </center>
-        </div><!-- /.col-lg-3 -->
-        <div class="col-lg-3">
-          <center>
-          <img class="img-circle" src="elliott_headshot.jpg" alt="Generic placeholder image">
-          <h2>Elliott Wyse</h2>
-          <h3>'15, MechE</h3>
-          <p>The name is Wyse... Elliot Wyse, and he likes his "undisclosed beverage" shaken not stirred. Known as the ace of all trades, he brings a unique skill set to the team, his work ethic. Also, he is really fast. Want to see him run to that hill and back? Want to see him do it again?</p>
-          </center>
-        </div><!-- /.col-lg-3 -->
+        <div class="col-lg-4">
+          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <h2>Heading</h2>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" data-src="holder.js/140x140" alt="Generic placeholder image">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
 
@@ -161,11 +150,11 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Check out our thing. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">We made it with computers, and math.</p>
+          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="1render.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
         </div>
       </div>
 
@@ -173,11 +162,11 @@
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="top.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">We put some paint on it because we could.</p>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
       </div>
 
@@ -186,10 +175,10 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">As you can see, we always maintain an atmosphere of composure and decorum while working.</p>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="hello.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
         </div>
       </div>
 
@@ -201,7 +190,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2013 Forrest Bourke Design &middot; <a href="why_would_you_thin_we_have_terms?">Terms</a></p>
+        <p>&copy; 2013 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
       </footer>
 
     </div><!-- /.container -->
