@@ -91,6 +91,7 @@ color: #f81022;
   text-align: center;
   font-size: 72px;
   background-color: #FFFFFF;
+  margin-bottom: -60px;
 }
 
 
@@ -100,13 +101,13 @@ myCarousel{
   position: absolute;
   top: 0;
   left: 0;
-  height: 500px;
+  height: 300px;
 }
 
 
 /* Carousel base class */
 .carousel {
-  height: 500px;
+  height: 300px;
   margin-bottom: 0px;
 }
 /* Since positioning the image, we need to help out the caption */
@@ -118,17 +119,17 @@ myCarousel{
 }
 /* Declare heights because of positioning of img element */
 .carousel .item {
-  height: 500px;
+  height: 300px;
   width: 100%;
   background-color: #777;
 }
 .carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 1600px;
+  position: relative;
+/*  top: 0;
+  left: 0;*/
+  min-width: 960px;
   min-height: 100%;
-  max-width: 100% !important; 
+/*  max-width: 100% !important;*/ 
   /*height: 100%;*/
 
 }
@@ -191,6 +192,17 @@ myCarousel{
     padding-right: 0;
   }
 
+  .jumbotron{
+    height: 200px;
+    font-family: "Lavanderia", "Lobster";
+    color: #AA1100;
+    width:100%;
+    text-align: center;
+    font-size: 72px;
+    background-color: #FFFFFF;
+    margin-bottom: 30px;
+  }
+
   /* Navbar positioning foo */
   .navbar-wrapper {
     margin-top: 20px;
@@ -220,6 +232,26 @@ myCarousel{
     font-size: 50px;
   }
 
+  myCarousel{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 500px;
+  }
+  .carousel {
+    height: 500px;
+    margin-bottom: 0px;
+  }
+  .carousel .item {
+    height: 500px;
+    width: 100%;
+    background-color: #777;
+  }
+  .carousel-inner > .item > img {
+    position: relative;
+    min-width: 1600px;
+    min-height: 100%;
+  }
 }
 
 @media (min-width: 992px) {
