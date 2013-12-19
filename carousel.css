@@ -179,7 +179,11 @@ myCarousel{
   letter-spacing: -1px;
 }
 
-
+@media (max-width: 768px) {
+  #smaller_mobile_carousel_heading {
+    font-size: 160%;
+  }
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
