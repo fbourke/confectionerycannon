@@ -80,10 +80,10 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">Our Reloading Mechanism.<span class="text-muted">It uses two nano servos and a variety of custom-fabricated components.</span></h2>
           <p class="lead">Our reloading mechanism can hold around six marshmallows.</p>
-          <p>The marshmallows are held in an acrylic magazine. One servo, an HXT900 microservo, is used to cue marshmallows for loading and prevent multiple marshmallows from falling into the barrel. The barrel is sealed by a billet aluminium hatch, articulated by a metal-gear, digital microservo. Originally, this servo was an HXT900 as well, but unfortunately the nylon gears proved too weak and stripped each time the cannon was fired at high pressure.</p>
+          <p>The marshmallows are held in an acrylic magazine. One servo, an HXT900 microservo, is used to cue marshmallows for loading and prevent multiple marshmallows from falling into the barrel. The barrel is sealed by a billet aluminium hatch, articulated by a metal-gear, digital microservo. Originally, this servo was an HXT900 as well, but unfortunately the nylon gears proved too weak and stripped each time the cannon was fired at high pressure. The reloading mechanism takes approximately one second to load a new marshmallow, making the limiting factor on firing rate the pneumatic system.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="1render.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="reload.jpg" alt="Picture of the reloading mechanism">
         </div>
       </div>
 
@@ -91,11 +91,12 @@
 
       <div class="row featurette" id="feat2">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="top.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="pneumatic.jpg" alt="Picture of the pneumatic system">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Our pneumatic system. <span class="text-muted">It contains some lot of air.</span></h2>
-          <p class="lead">Our pneumatic system provides the impulse necessary to </p>
+          <h2 class="featurette-heading">Our pneumatic system. <span class="text-muted">It contains some air.</span></h2>
+          <p class="lead">Our pneumatic system provides the impulse necessary to shoot our marshmallows.</p>
+          <p>The first part of the pneumatic system is the compressor, capable of producing up to 135 PSI. We bought a used compressor that included a regulator and two (sadly quite inaccurate) gauges. The regulated output of the compressor is connected to our pressure reservoir that has its own more accurate pressure gauge as well as a safety release valve, set at 30 PSI. Our PVC reservoir has approximately three times the volume of the barrel of the launcher, which is plenty of air to launch the marshmallow. The actual launching is actuated by a standard solenoid-powered sprinkler valve, connected via relay with our microcontroller. When the solenoid is triggered, the air in the reservoir is released through a length of clear tubing to the barrel. After the valve closes, it takes a few seconds for the pressure in the reservoir to recover, based on the setting of the regulator.</p>
         </div>
       </div>
 
@@ -103,11 +104,12 @@
 
       <div class="row featurette" id="feat3">
         <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">As you can see, we always maintain an atmosphere of composure and decorum while working.</p>
+          <h2 class="featurette-heading">Our pan and tilt system. <span class="text-muted">It pans and tilts.</span></h2>
+          <p class="lead">We could have called it azimuth and elevation, but then it seems even more like an artillery piece.</p>
+          <p>Our two-axis actuation is, again, powered with servos. The panning uses a continuous rotation standard-sized servo coupled to an angle-feedback potentiometer. To tilt the barrel, we used a high-torque metal-gear analog servo geared down for 60 degrees of range. The servo is coupled to the barrel through two billet aluminium blocks, one of which is supported with a bearing.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="hello.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="pantilt.jpg" alt="Pan Tilt System">
         </div>
       </div>
 
