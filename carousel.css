@@ -114,6 +114,7 @@ myCarousel{
 
 /* Carousel base class */
 .carousel {
+  margin: 0 auto;
   height: 300px;
   margin-bottom: 0px;
 }
@@ -130,11 +131,9 @@ myCarousel{
   width: 100%;
   background-color: #777;
 }
+.item img {margin: 0 auto;}
 .carousel-inner > .item > img {
-/*  position: relative;*/
-  margin-left 0 auto;
-/*  top: 0;
-  left: 0;*/
+  margin: 0 auto;
   min-width: 960px;
   min-height: 100%;
 /*  max-width: 100% !important;*/ 
