@@ -5,7 +5,7 @@
 body {
   padding-bottom: 40px;
   color: #5a5a5a;
-  font-family: Lato;
+  font-family: Lato, Helvetica, Sans-Serif;
   font-weight: 400;
 }
 
@@ -131,7 +131,8 @@ myCarousel{
   background-color: #777;
 }
 .carousel-inner > .item > img {
-  position: relative;
+/*  position: relative;*/
+  margin-left 0 auto;
 /*  top: 0;
   left: 0;*/
   min-width: 960px;
