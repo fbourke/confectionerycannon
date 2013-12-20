@@ -131,7 +131,6 @@ myCarousel{
   width: 100%;
   background-color: #777;
 }
-.item img {margin: 0 auto;}
 .carousel-inner > .item > img {
   margin: 0 auto;
   min-width: 960px;
