@@ -141,6 +141,10 @@ myCarousel{
 
 }
 
+#home {
+  color: inherit;
+  text-decoration: inherit;
+}
 
 
 
