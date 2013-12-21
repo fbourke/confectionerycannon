@@ -132,9 +132,10 @@ myCarousel{
   background-color: #777;
 }
 .carousel-inner > .item > img {
-  margin: 0 auto;
+/*  margin: 0 auto;*/
   min-width: 960px;
   min-height: 100%;
+  left: 50%;
 /*  max-width: 100% !important;*/ 
   /*height: 100%;*/
 
@@ -264,7 +265,13 @@ myCarousel{
   .carousel-inner > .item > img {
     position: relative;
     min-width: 1600px;
-    min-height: 100%;
+    min-height: 100%; 
+    left: 50%;
+    margin-left: -800px;
+  }
+  #code_pix {
+    left: 0;
+    margin-left: 0px;
   }
 }
 
