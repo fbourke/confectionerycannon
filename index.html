@@ -8,10 +8,7 @@
     <meta name="author" content="Forrest Bourke">
     <link rel="shortcut icon" href="docs-assets/ico/favicon.png">
     <link href="//fonts.googleapis.com/css?family=Lato:100italic,100,300italic,300,400italic,400,700italic,700,900italic,900" rel="stylesheet" type="text/css">
-    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-    <script src="js/scroll.js"></script>
-    
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>    
     <!-- SAARTH SUCKS -->
 
     <title>Confectionery Cannon - Olin College POE 2013</title>
@@ -28,52 +25,21 @@
     <![endif]-->
     <link href="carousel.css" rel="stylesheet">
 
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-      //ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-      ga('create', 'UA-41729175-2', 'confectionerycannon.com');
-      ga('send', 'pageview');
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script>window.jQuery || document.write('<script src="jquery-1.9.1.min.js"><\/script>')</script> <!-- I think this line makes the local copy of jquery work as a backup.... -->
+    <script src="jquery.unveil.js"></script>
 
+    <script>
+    $(function() {
+        $("img").unveil(300);
+    });
     </script>
+
+
   </head>
 <!-- NAVBAR
 ================================================== -->
   <body>
-    <!-- 
-    I've gotten rid of the navbar because it's unnecessary.
-
-    <div class="navbar-wrapper">
-      <div class="container">
-
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="#">Confectionery Cannon</a>
-            </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#software">Software</a></li>
-                <li><a href="#Mechanical">Mechanical</a></li>
-                <li><a href="#contact">Contact</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div>
- -->
-
     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -132,16 +98,16 @@
     <div class="container marketing">
       <!-- START THE FEATURETTES -->
 
-      <hr class="featurette-divider">
+      <hr class="featurette-divider" id="first-divider">
 
       <div class="row featurette" id="feat1">
         <div class="col-md-7">
           <h2 class="featurette-heading">Check out our thing. <span class="text-muted">It'll blow your mind.</span></h2>
           <p class="lead">We made it with computers, and math.</p>
-          <p><a class="btn btn-lg btn-primary" href="mech.html" role="button">Read about our mechanical subsystems</a></p>
+          <p><a class="btn btn-lg btn-primary big-button" href="mech.html" role="button">Read about our mechanical subsystems</a></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="1render.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="loader.gif" data-src="1render500.jpg" alt="Loader closeup render">
         </div>
       </div>
 
@@ -149,12 +115,12 @@
 
       <div class="row featurette" id="feat2">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="top.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="loader.gif" data-src="top500.jpg" alt="Top pan/tilt photo">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
           <p class="lead">We put some paint on it because we could.</p>
-          <p><a class="btn btn-lg btn-primary" href="elec.html" role="button">Read about our electrical subsystems</a></p>
+          <p><a class="btn btn-lg btn-primary big-button" href="elec.html" role="button">Read about our electrical subsystems</a></p>
         </div>
       </div>
 
@@ -164,28 +130,36 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
           <p class="lead">As you can see, we always maintain an atmosphere of composure and decorum while working.</p>
+
+          <p><a class="btn btn-lg btn-primary" href="faq.html" role="button">FAQ</a></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="hello.jpg" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive" src="loader.gif" data-src="hello500.jpg" alt="Saarth and Elliott working">
         </div>
       </div>
 
       <hr class="featurette-divider">
+
+      <div class="jumbotron"  id="the-team">
+        <div class="container">
+          <h1>The Team</h1>
+        </div>
+      </div>
 
       <!-- /END THE FEATURETTES -->
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-3">
           <center>
-          <img src="forrest_headshot.jpg" class="img-circle"  alt="Forrest headshot">
+          <img src="loader.gif" data-src="forrest_headshot.jpg" class="img-circle"  alt="Forrest headshot">
           <h2>Forrest Bourke</h2>
           <h3>'16, ECE</h3>
-          <p class="bio">Forrest was once told by a Nordstrom employee that he's "too fashion conscious." When he's not checking himself out or fixing his hair, he knows how to spend class time un-wisely. Yet, he is loved by his professors who, according to Dr. Aaron Hoffman, find him "on the whole, more amusing than insubordinate."</p>
+          <p class="bio">Forrest was once told by a Nordstrom employee that he's "too fashion conscious." When he's not checking himself out or fixing his hair, he knows how to spend class time un-wisely. Yet, he is loved by his professors who, according to Prof. Aaron Hoffman, find him "on the whole, more amusing than insubordinate."</p>
           </center>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
           <center>
-          <img class="img-circle" src="saarth_headshot.jpg" alt="Saarth headshot">
+          <img class="img-circle" src="loader.gif" data-src="saarth_headshot.jpg" alt="Saarth headshot">
           <h2>Saarth Mehrotra</h2>
           <h3>'16, ECE</h3>
           <p class="bio">The best looking member on the team, Saarth enjoys long walks on the beach and candle-lit dinners, but only in his spare time when he's not writing team bios. As a fan of buzzwords, he has made the team ten times more lean, innovative, and agile. With the eventual goal of taking over the world, he has promised his other three team members position on his cabinet of anarchy. </p>
@@ -193,7 +167,7 @@
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
           <center>
-          <img class="img-circle" src="searing_headshot.jpg" alt="Searing headshot">
+          <img class="img-circle" src="loader.gif" data-src="searing_headshot.jpg" alt="Searing headshot">
           <h2>Michael Searing</h2>
           <h3>'16, MechE</h3>
           <p class="bio">His closest peers refer to him by just his last name, Searing. He's the type of person that would buy 100 grams of magnesium just for fun; if you're a member of the FBI or US Customs, it's for dietary supplementation. Known as the team bully, he motivated us by exploiting our physical and emotional weaknesses. Also, he has a white patch of hair on his head and it looks silly, hehe.  </p>
@@ -201,7 +175,7 @@
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
           <center>
-          <img class="img-circle" src="elliott_headshot.jpg" alt="Elliott headshot">
+          <img class="img-circle" src="loader.gif" data-src="elliott_headshot.jpg" alt="Elliott headshot">
           <h2>Elliott Wyse</h2>
           <h3>'15, MechE</h3>
           <p class="bio">The name is Wyse... Elliot Wyse, and he likes his "undisclosed beverage" shaken not stirred. Known as the ace of all trades, he brings a unique skill set to the team, his work ethic. Also, he is really fast. Want to see him run to that hill and back? Want to see him do it again?</p>
@@ -222,8 +196,18 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    
     <script src="dist/js/bootstrap.min.js"></script>
     <script src="docs-assets/js/holder.js"></script>
+        <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      //ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      ga('create', 'UA-41729175-2', 'confectionerycannon.com');
+      ga('send', 'pageview');
+    </script>
+    <script src="js/scroll.js"></script>
   </body>
 </html>

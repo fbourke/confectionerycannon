@@ -25,6 +25,9 @@ body {
     url("http://typefront.com/fonts/825591970.svg") format("svg");
 }
 
+
+
+
 /* CUSTOMIZE THE NAVBAR
 --------------------------------------------------
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
@@ -102,6 +105,22 @@ color: #f81022;
   padding-top: 30px;
 }
 
+#first-divider {
+  margin-top: 0px;
+}
+
+#the-team {
+  margin-top: -70px;
+  margin-bottom: 10px;
+}
+
+.faq-item {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 myCarousel{
@@ -132,14 +151,18 @@ myCarousel{
   background-color: #777;
 }
 .carousel-inner > .item > img {
-/*  margin: 0 auto;*/
+  position: relative;
   min-width: 960px;
   min-height: 100%;
   left: 50%;
-/*  max-width: 100% !important;*/ 
-  /*height: 100%;*/
+  margin-left: -480px;
 
 }
+
+  #code_pix {
+    left: 0;
+    margin-left: 0px;
+  }
 
 #home {
   color: inherit;
@@ -175,6 +198,10 @@ myCarousel{
   margin-right: 10px;
 }
 
+#home {
+  text-align: center;
+}
+
 #subheading {
   font-family: "Lato";
   font-weight: 300;
@@ -198,6 +225,12 @@ myCarousel{
   #smaller_mobile_carousel_heading {
     font-size: 160%;
   }
+  .btn-lg {
+  padding: 5px 10px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
 }
 
 /* RESPONSIVE CSS
@@ -273,10 +306,7 @@ myCarousel{
     left: 50%;
     margin-left: -800px;
   }
-  #code_pix {
-    left: 0;
-    margin-left: 0px;
-  }
+
 }
 
 @media (min-width: 992px) {
