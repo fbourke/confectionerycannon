@@ -1,4 +1,8 @@
 confectonerycannon
 ==================
 
-Our POE Team website
+Our POE Project
+Forrest Bourke
+Saarth Mehrotra
+Michael Searing
+Elliott Wyse
