@@ -59,7 +59,8 @@ color: #f81022;
 }
 .navbar-inverse .navbar-brand {
   color: #f81011;
-  font-family: "Lavanderia", "Lobster";
+  font-family: "Lavanderia", "Lobster", script;
+  font-variant: "Sturdy";
   font-size: 24px;
 }
 .navbar-inverse .navbar-brand:hover,
@@ -119,6 +120,22 @@ color: #f81022;
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+.btn-primary {
+  color: #fff;
+  background-color: #aa1100;
+  border-color: #881100;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #bb2211;
+  border-color: #881100;
 }
 
 /* CUSTOMIZE THE CAROUSEL
