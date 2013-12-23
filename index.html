@@ -29,13 +29,17 @@
     <script>window.jQuery || document.write('<script src="jquery-1.9.1.min.js"><\/script>')</script> <!-- I think this line makes the local copy of jquery work as a backup.... -->
     <script src="jquery.unveil.js"></script>
 
+    <script src="js/jquery.onscreen.min.js"></script>
+
     <script>
     $(function() {
         $("img").unveil(300);
+        
+    });
+    $('document').ready(function() {   
+        $("img").unveil(300); 
     });
     </script>
-
-
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -51,7 +55,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="banner1.jpg" alt="First slide">
+          <img src="banner4.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Welcome!</h1>
@@ -73,7 +77,7 @@
           <img src="banner3.jpg" alt="Third slide" id="code_pix">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Check out our code!</h1>
+              <h1>Check out our code and electrical systems!</h1>
               <p>The Confectionery Cannon was programmed using Python and Arduino C; it uses OpenCV for face tracking.</p>
               <p><a class="btn btn-lg btn-primary" href="#feat2" role="button">Read more</a></p>
             </div>
@@ -102,9 +106,10 @@
 
       <div class="row featurette" id="feat1">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Check out our thing. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="lead">We made it with computers, and math.</p>
-          <p><a class="btn btn-lg btn-primary big-button" href="mech.html" role="button">Read about our mechanical subsystems</a></p>
+          <h2 class="featurette-heading">The Confectionery Cannon. <span class="text-muted">We made it with computers, and math.</span></h2>
+          <p class="lead">We used many of Olin's fabrication resources, including the mills, lathes, and laser cutters.</p>
+          <p>After sketching out a few initial designs, we designed the entire system in Solidworks. Most of the parts are acrylic, which we chose primarily for its cost and ease of laser-cutting. Acrylic isn't very strong and is quite bittle, but it's less than a third of the cost of acetyl (Delrin). The three aluminium parts were made from shop scrap. </p>
+          <p><a class="btn btn-lg btn-primary big-button" href="mech.html" role="button">Read more</a></p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive" src="loader.gif" data-src="1render500.jpg" alt="Loader closeup render">
@@ -118,9 +123,10 @@
           <img class="featurette-image img-responsive" src="loader.gif" data-src="top500.jpg" alt="Top pan/tilt photo">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
+          <h2 class="featurette-heading">It's electrical. <span class="text-muted">See for yourself.</span></h2>
           <p class="lead">We put some paint on it because we could.</p>
-          <p><a class="btn btn-lg btn-primary big-button" href="elec.html" role="button">Read about our electrical subsystems</a></p>
+          <p></p>
+          <p><a class="btn btn-lg btn-primary big-button" href="elec.html" role="button">Read more</a></p>
         </div>
       </div>
 
@@ -128,13 +134,13 @@
 
       <div class="row featurette" id=>
         <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
+          <h2 class="featurette-heading">On top of all that, it works. <span class="text-muted">Checkmate.</span></h2>
           <p class="lead">As you can see, we always maintain an atmosphere of composure and decorum while working.</p>
 
           <p><a class="btn btn-lg btn-primary" href="faq.html" role="button">FAQ</a></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="loader.gif" data-src="hello500.jpg" alt="Saarth and Elliott working">
+          <img class="featurette-image img-responsive" src="loader.gif" data-src="team_firing-500.jpg" alt="The team at Expo">
         </div>
       </div>
 
@@ -154,7 +160,7 @@
           <img src="loader.gif" data-src="forrest_headshot.jpg" class="img-circle"  alt="Forrest headshot">
           <h2>Forrest Bourke</h2>
           <h3>'16, ECE</h3>
-          <p class="bio">Forrest was once told by a Nordstrom employee that he's "too fashion conscious." When he's not checking himself out or fixing his hair, he knows how to spend class time un-wisely. Yet, he is loved by his professors who, according to Prof. Aaron Hoffman, find him "on the whole, more amusing than insubordinate."</p>
+          <p class="bio">Forrest was once told by a Nordstrom employee that he's "too fashion conscious." When he's not checking himself out or fixing his hair, he knows how to spend class time un-wisely. Yet, he is loved by his professors who, according to Prof. Aaron Hoffman, find him "on the whole, more amusing than insubordinate." You can find his personal website <a href="http://forrestbourke.com">here.</a></p>
           </center>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
@@ -209,5 +215,6 @@
       ga('send', 'pageview');
     </script>
     <script src="js/scroll.js"></script>
+    <script src="js/jquery.onscreen.min.js"></script>
   </body>
 </html>
