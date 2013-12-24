@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="802.36505"
+   height="516.37567"
+   id="svg6138"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="schematic.svg">
+  <defs
+     id="defs6140">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect8063"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8061"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4444"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4444-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0457516"
+     inkscape:cx="404.83023"
+     inkscape:cy="258.90568"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20" />
+  <metadata
+     id="metadata6143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-101.86306,-286.61505)">
+    <g
+       id="g6910"
+       transform="translate(8.2898318,-93.240789)">
+      <g
+         id="g5689-0"
+         transform="matrix(0.36992809,0,0,0.36935188,433.76111,633.82189)"
+         style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g5691-1"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text5693-5"
+             y="161"
+             x="153"
+             style="font-size:43.18417358px;font-style:italic;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino Linotype"
+             xml:space="preserve"><tspan
+               y="161"
+               x="153"
+               id="tspan5695-4"
+               sodipodi:role="line"
+               style="font-size:43.18417358px">+</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g5697-1"
+         transform="matrix(0.82911065,0,0,0.36910275,361.55113,609.58161)"
+         style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g5699-3"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text5701-7"
+             y="161"
+             x="153"
+             style="font-size:43.18385696px;font-style:italic;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino Linotype"
+             xml:space="preserve"><tspan
+               y="161"
+               x="153"
+               id="tspan5703-3"
+               sodipodi:role="line"
+               style="font-size:43.18385696px">-</tspan></text>
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5705-5"
+         d="m 491.85752,630.87915 0,47.56573 35.59262,-23.78285 -35.59262,-23.78288 z"
+         style="fill:none;stroke:#000000;stroke-width:1.33050823px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33050847px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 499.79379,512.62854 -11.97457,0 0,35.92373 11.97457,0"
+       id="path5713-8"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33050847px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 535.71752,512.62856 11.97458,0 0,48.60542 -11.97458,0"
+       id="path5715-5"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33050835px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 499.79379,572.50143 -11.97457,0 0,36.22269"
+       id="path5717-6"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g5821-9"
+       transform="matrix(1.3305085,0,0,1.3305085,248.33914,392.88278)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5823-0"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5825-8"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5827-9"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5829-3"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33050859px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 453.87113,548.55227 33.9481,0"
+       id="path5837-6"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33050847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 454.13151,572.50143 33.68772,0"
+       id="path5839-0"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33050847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 418.03747,548.02564 -39.84493,0"
+       id="path5841-6"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g2582-7"
+       transform="matrix(0,1.3305085,-1.3305085,0,597.56498,297.08617)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2584-8"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.5"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect2586-9"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g2588-4"
+       transform="matrix(0,1.3305085,-1.3305085,0,597.56498,321.03532)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2590-1"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.5"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect2592-5"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g2594-6"
+       transform="matrix(1.3305085,0,0,1.3305085,236.35312,464.73024)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2596-6"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.5"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect2598-6"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g2606-1"
+       transform="matrix(0,1.3305085,-1.3305085,0,679.41244,261.16244)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2608-4"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.5"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect2610-0"
+         style="fill:none;stroke:none" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33050847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 417.91274,572.50143 -39.51425,0"
+       id="path5841-6-6"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15044-0-0-2"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,454.26148,512.08894)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33050859px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 547.69214,561.11261 18.97095,0"
+       id="path15014-7-7-92-4"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-2"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,394.3886,499.76068)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,394.3886,523.70997)" />
+    <g
+       id="g14976-5-5-0-4"
+       transform="matrix(1.496822,0,0,1.496822,91.868212,326.10207)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">250kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.5288378px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 735.98111,584.68038 -11.93015,0 0,79.34725"
+       id="path3012-0"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g3014-1"
+       transform="matrix(1.3255726,0,0,1.3255726,485.37257,449.31584)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3016-3"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3018-2"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3020-2"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3022-2"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.28097808px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 736.30349,620.92397 -12.25253,0"
+       id="path3046-8"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g3054-3"
+       transform="matrix(1.3255726,0,0,1.3461602,473.43106,518.67325)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3056-7"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.89309132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.5"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect3058-9"
+         style="fill:none;stroke:none" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.32557261px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 795.36899,573.10377 0,47.72062 -11.93016,0"
+       id="path3066-8"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.32557261px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 662.89316,561.52717 73.08796,0"
+       id="path3044-5"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.98999999;fill:none;stroke:#000000;stroke-width:1.32557261px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 771.77157,572.75022 23.86031,0"
+       id="path3044-5-2"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-1-1"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.30863798,0,0,0.30863749,702.28498,524.13978)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-1-4"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.30863798,0,0,0.30863749,630.96693,572.21395)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.3481493px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 280.9606,630.6482 -12.13337,0 0,36.40002 12.13337,0"
+       id="path14855-6-0-3-6-5"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33240223;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 371.42595,630.58753 7.43713,0 0,48.57699 -7.43713,0"
+       id="path14857-1-2-4-8-4"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.34814918px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 280.9606,691.3149 -12.13337,0 0,32.80397"
+       id="path14859-3-6-1-2-6"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g14861-8-0-7-5-0"
+       transform="matrix(1.3481485,0,0,1.3324867,26.094636,506.49192)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14863-9-6-5-5-9"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:1.00585938px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14865-3-1-3-1-4"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:1.00585938px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14867-4-1-3-0-3"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:1.00585938px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14869-4-1-2-1-7"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:1.00585938px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.3481493px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 253.85666,667.04822 15.10902,0"
+       id="path14877-6-0-4-5-4"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g14940-3-4-1-1-5"
+       transform="matrix(0,1.3481485,-1.3480664,0,462.63898,375.75989)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14942-6-8-2-7-9"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.90002739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.6499"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect14944-1-3-9-6-8"
+         style="fill:none;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-6-5"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.31389447,0,0,0.31389403,174.15784,617.60984)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15044-0-0-74-2-9"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.31389447,0,0,0.31389403,234.82458,629.74324)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.3481493px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 206.3351,667.04822 12.13333,0"
+       id="path15014-7-7-9-48-0-0"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.3481493px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 329.49398,679.18153 41.5907,0"
+       id="path15014-7-7-92-20-8-8"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g14940-3-4-1-1-4-0"
+       transform="matrix(0,1.3481485,-1.3480664,0,399.83892,412.15991)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14942-6-8-2-7-0-8"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.90002739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.6499"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect14944-1-3-9-6-2-0"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g14940-3-4-1-1-0"
+       transform="matrix(0,1.3481489,-1.3480667,0,463.54699,469.48242)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14942-6-8-2-7-4"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.90002739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.6499"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect14944-1-3-9-6-0"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g5691-1-8"
+       transform="matrix(0.36992809,0,0,0.36935188,224.75013,612.39819)"
+       style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         id="text5693-5-5"
+         y="161"
+         x="153"
+         style="font-size:43.18417358px;font-style:italic;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino Linotype"
+         xml:space="preserve"><tspan
+           y="161"
+           x="153"
+           id="tspan5695-4-8"
+           sodipodi:role="line"
+           style="font-size:43.18417358px">+</tspan></text>
+    </g>
+    <g
+       id="g5699-3-0"
+       transform="matrix(0.82911065,0,0,0.36910275,155.23342,636.38128)"
+       style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         id="text5701-7-6"
+         y="161"
+         x="153"
+         style="font-size:43.18385696px;font-style:italic;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino Linotype"
+         xml:space="preserve"><tspan
+           y="161"
+           x="153"
+           id="tspan5703-3-0"
+           sodipodi:role="line"
+           style="font-size:43.18385696px">-</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.33050823px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 281.72785,655.6778 0,47.56573 35.59262,-23.78285 -35.59262,-23.78288 z"
+       id="path5705-5-5"
+       inkscape:connector-curvature="0" />
+    <g
+       style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.36992809,0,0,0.36935188,678.74149,529.39892)"
+       id="g5689-0-6">
+      <g
+         style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(4.597656,-60.671874)"
+         id="g5691-1-60">
+        <text
+           xml:space="preserve"
+           style="font-size:43.18417358px;font-style:italic;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino Linotype"
+           x="153"
+           y="161"
+           id="text5693-5-1"><tspan
+             style="font-size:43.18417358px"
+             sodipodi:role="line"
+             id="tspan5695-4-3"
+             x="153"
+             y="161">+</tspan></text>
+      </g>
+    </g>
+    <g
+       style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.82911065,0,0,0.36910275,606.53151,551.90864)"
+       id="g5697-1-2">
+      <g
+         style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(4.597656,-60.671874)"
+         id="g5699-3-4">
+        <text
+           xml:space="preserve"
+           style="font-size:43.18385696px;font-style:italic;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino Linotype"
+           x="153"
+           y="161"
+           id="text5701-7-5"><tspan
+             style="font-size:43.18385696px"
+             sodipodi:role="line"
+             id="tspan5703-3-6"
+             x="153"
+             y="161">-</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.33050823px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 736.8379,549.20618 0,47.56573 35.59262,-23.78285 -35.59262,-23.78288 z"
+       id="path5705-5-6"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g14976-5-5-0-4-4"
+       transform="matrix(1.2765957,0,0,1.2765957,222.08077,322.23798)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-7"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-1"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-6"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-4"
+               sodipodi:role="line"
+               style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">250kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14976-5-5-0-4-8"
+       transform="matrix(1.496822,0,0,1.496822,166.70183,418.01957)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.576654)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-5"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">250kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14976-5-5-0-4-2"
+       transform="matrix(1.496822,0,0,1.496822,91.868212,378.68936)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-2"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-43"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-5"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-7"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">250kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4802-5-2-4"
+       transform="matrix(0,1.332342,-1.332342,0,1251.3583,-2.7513263)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\circuit module\inverter.png"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4804-5-4-3"
+         d="m 467.98403,382.50005 0.0497,4.50246"
+         style="fill:none;stroke:#000000;stroke-width:1.0000006px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4806-1-5-2"
+         d="m 467.9837,355.49966 -4.49234,2.25007 8.98468,4.50014 -8.98468,4.50012 8.98468,4.50012 -8.98468,4.50013 8.98468,4.50014 -4.49234,2.25006"
+         style="fill:none;stroke:#000000;stroke-width:0.90000033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27.000048"
+         rx="2457.1318"
+         y="355.5"
+         x="459"
+         height="27.000048"
+         width="17.968058"
+         id="rect4808-7-5-1"
+         style="fill:none;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4810-1-1-1"
+         d="m 472.55058,369.00003 13.44942,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4812-1-7-3"
+         d="m 467.98403,351 0,4.50001"
+         style="fill:none;stroke:#000000;stroke-width:1.00000036px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <rect
+         rx="1.2467845e-15"
+         y="351"
+         x="459"
+         height="36.000069"
+         width="26.952089"
+         id="rect4814-5-1-2"
+         style="color:#000000;fill:none;stroke:none;stroke-width:0.90000004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         ry="1.2467845e-15" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.32557261px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 759.69981,644.58361 -12.25253,0"
+       id="path3046-8-7"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.44699323px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 748.98587,644.55968 -24.50582,0"
+       id="path3046-8-3"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect15164-3-2-9"
+       width="19"
+       height="36.053192"
+       x="-278.12195"
+       y="-749.88116"
+       transform="scale(-1,-1)" />
+    <g
+       id="g15152-1-5-1-95"
+       transform="matrix(-0.43758468,0,0,-0.33758151,735.08178,624.36625)"
+       style="stroke-width:4.47490692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g15154-0-0-3-6"
+         transform="matrix(1,0,0,0.982133,0,0.9330199)"
+         style="stroke-width:4.51542759;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="path15156-9-1-6-7"
+           d="m 243,99 36,0"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15158-9-4-3-3"
+           d="m 243,117 36,0"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15160-6-5-0-7"
+           d="m 261,54 0,44.648784"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15162-8-6-1-2"
+           d="m 261,117.98512 0,44.01489"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <rect
+           style="fill:none;stroke:none"
+           id="rect15164-3-2-9-2"
+           width="72"
+           height="108.74136"
+           x="225"
+           y="53.424179" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00383782px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 268.80325,712.28485 0,12.13337 13.48316,0"
+       id="path14859-3-6-1-2-6-6"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33466744;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 317.96121,679.43167 11.64479,0 0,45.0629 -11.64479,0"
+       id="path14857-1-2-4-8-4-3"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.3481493px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 278.08973,406.46053 -12.13337,0 0,36.40002 12.13337,0"
+       id="path14855-6-0-3-6-5-6"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33466744;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 314.82538,406.46053 11.7269,0 0,48.70199 -11.7269,0"
+       id="path14857-1-2-4-8-4-5"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.34814918px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 278.08973,467.12723 -12.13337,0 0,32.80397"
+       id="path14859-3-6-1-2-6-66"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g14861-8-0-7-5-0-9"
+       transform="matrix(1.3481485,0,0,1.3324867,23.052402,282.30425)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14863-9-6-5-5-9-5"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:1.00585938px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14865-3-1-3-1-4-5"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:1.00585938px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14867-4-1-3-0-3-9"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:1.00585938px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14869-4-1-2-1-7-0"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:1.00585938px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g14940-3-4-1-1-5-9"
+       transform="matrix(0,1.3481485,-1.3480664,0,459.76811,151.57222)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14942-6-8-2-7-9-1"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.90002739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.6499"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect14944-1-3-9-6-8-7"
+         style="fill:none;stroke:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-6-5-3"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.31389447,0,0,0.31389403,171.28697,393.42217)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15044-0-0-74-2-9-6"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.31389447,0,0,0.31389403,231.95371,405.55557)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.3481493px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 326.62311,454.99386 12.13327,0"
+       id="path15014-7-7-92-20-8-8-7"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g14940-3-4-1-1-0-3"
+       transform="matrix(0,1.3481489,-1.3480667,0,461.30112,245.29475)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14942-6-8-2-7-4-0"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.90002739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.6499"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect14944-1-3-9-6-0-1"
+         style="fill:none;stroke:none" />
+    </g>
+    <rect
+       style="fill:none;stroke:none"
+       id="rect15164-3-2-9-0"
+       width="19"
+       height="36.053192"
+       x="-275.25107"
+       y="-525.69348"
+       transform="scale(-1,-1)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.00383782px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 265.93238,488.09718 0,12.13337 13.48316,0"
+       id="path14859-3-6-1-2-6-6-3"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.33466744;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 315.71535,455.49396 11.01979,0 0,44.8129 -11.01979,0"
+       id="path14857-1-2-4-8-4-3-3"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g7719"
+       transform="translate(71.936279,-93.594342)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14863-9-6-5-5-9-5-6"
+         d="m 132.57449,791.19791 4.85102,0"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14865-3-1-3-1-4-5-2"
+         d="m 127.72346,785.23494 14.55308,0"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14867-4-1-3-0-3-9-1"
+         d="m 122.87245,779.27196 24.2551,0"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14869-4-1-2-1-7-0-1"
+         d="m 135.00577,760.75108 0,18.45448"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g5691-1-8-8"
+       transform="matrix(0.36992809,0,0,0.36935188,222.03725,388.33036)"
+       style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         id="text5693-5-5-2"
+         y="161"
+         x="153"
+         style="font-size:43.18417358px;font-style:italic;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino Linotype"
+         xml:space="preserve"><tspan
+           y="161"
+           x="153"
+           id="tspan5695-4-8-8"
+           sodipodi:role="line"
+           style="font-size:43.18417358px">+</tspan></text>
+    </g>
+    <g
+       id="g5699-3-0-7"
+       transform="matrix(0.82911065,0,0,0.36910275,152.52054,412.31345)"
+       style="stroke-width:1.61939466;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         id="text5701-7-6-6"
+         y="161"
+         x="153"
+         style="font-size:43.18385696px;font-style:italic;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino Linotype"
+         xml:space="preserve"><tspan
+           y="161"
+           x="153"
+           id="tspan5703-3-0-1"
+           sodipodi:role="line"
+           style="font-size:43.18385696px">-</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.33050823px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 279.01497,431.60997 0,47.56573 36.65328,-23.78285 -36.65328,-23.78288 z"
+       id="path5705-5-5-3"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g14976-5-5-0-4-4-4"
+       transform="matrix(1.2765957,0,0,1.2765957,-4.8256779,216.13783)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-7-4"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-1-1"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-6-5"
+             y="186.73039"
+             x="301.50208"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="301.50208"
+               id="tspan14984-0-8-5-4-4-9"
+               sodipodi:role="line"
+               style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">100kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.63829785,0,0,0.63829785,110.67004,541.1719)"
+       id="g14978-4-7-8-9-7-1">
+      <g
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(4.597656,-60.671874)"
+         id="g14980-1-7-7-8-1-3">
+        <text
+           xml:space="preserve"
+           style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+           x="289.96799"
+           y="187.51373"
+           id="text14982-2-0-4-2-6-7"><tspan
+             style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+             sodipodi:role="line"
+             id="tspan14984-0-8-5-4-4-38"
+             x="289.96799"
+             y="187.51373">20kΩ</tspan></text>
+      </g>
+    </g>
+    <g
+       style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.63829785,0,0,0.63829785,156.17066,566.42197)"
+       id="g14978-4-7-8-9-7-1-6">
+      <g
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(4.597656,-60.671874)"
+         id="g14980-1-7-7-8-1-3-8">
+        <text
+           xml:space="preserve"
+           style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+           x="294.43616"
+           y="187.51373"
+           id="text14982-2-0-4-2-6-7-0"><tspan
+             style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+             sodipodi:role="line"
+             id="tspan14984-0-8-5-4-4-38-2"
+             x="294.43616"
+             y="187.51373">25kΩ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g14976-5-5-0-4-4-49"
+       transform="matrix(1.2765957,0,0,1.2765957,-59.452893,474.93891)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-7-6"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-1-8"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-6-73"
+             y="186.73039"
+             x="293.19565"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="293.19565"
+               id="tspan14984-0-8-5-4-4-7"
+               sodipodi:role="line"
+               style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">100kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14976-5-5-0-4-4-96"
+       transform="matrix(1.2765957,0,0,1.2765957,4.2551402,559.70594)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-7-15"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-1-7"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-6-84"
+             y="186.73039"
+             x="293.19565"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="293.19565"
+               id="tspan14984-0-8-5-4-4-4"
+               sodipodi:role="line"
+               style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">100kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14976-5-5-0-4-4-45"
+       transform="matrix(1.2765957,0,0,1.2765957,-48.050321,565.06148)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-7-67"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-1-84"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-6-23"
+             y="185.16373"
+             x="282.37256"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="185.16373"
+               x="282.37256"
+               id="tspan14984-0-8-5-4-4-44"
+               sodipodi:role="line"
+               style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">1pF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.33234274px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 365.20702,630.59218 5.99882,-0.0662"
+       id="path4804-5-4-3-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.19910824;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 329.23327,630.59262 2.99786,5.98533 5.99573,-11.97066 5.9957,11.97066 5.99569,-11.97066 5.99572,11.97066 5.99572,-11.97066 2.99785,5.98533"
+       id="path4806-1-5-2-6"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect4808-7-5-1-9"
+       width="23.939598"
+       height="35.973297"
+       x="-642.56195"
+       y="329.23373"
+       rx="3273.74"
+       ry="35.973297"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.3190186;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart)"
+       d="m 347.22038,624.50798 0,-17.91923"
+       id="path4810-1-1-1-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.33234239px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 317.00932,630.59218 12.22442,0"
+       id="path4812-1-7-3-8"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;fill:none;stroke:none;stroke-width:0.90000004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4814-5-1-2-6"
+       width="35.909401"
+       height="47.964405"
+       x="-642.56195"
+       y="323.23819"
+       rx="1.6611434e-15"
+       ry="1.6611434e-15"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <text
+       id="text14982-2-0-4-2-6-23-3"
+       y="519.60284"
+       x="236.30844"
+       style="font-size:13.61702156px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+       xml:space="preserve"><tspan
+         y="519.60284"
+         x="236.30844"
+         id="tspan14984-0-8-5-4-4-44-8"
+         sodipodi:role="line"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">1pF</tspan></text>
+    <g
+       id="g8851"
+       transform="translate(61.936279,-123.11946)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14869-4-1-2-1-7-0-1-4-6"
+         d="m 72.390676,623.08562 0,-33.31054"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path8065"
+         d="m 60.426778,589.61218 11.96967,14.11612 12.53033,-14.36612 z"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 134.41472,500.03237 131.69864,-0.35356 z"
+       id="path8855"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-6-5-3-0"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.31389447,0,0,0.31389403,171.2974,450.594)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 347.07709,606.62866 -23.5113,0 0,24.04163 0,-24.2184 z"
+       id="path8883"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 338.68628,455.01785 40.24969,0 0,90.74133 0,2.75734"
+       id="path8885"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 378.93628,630.76784 0,-58.25 0.5,0.70393"
+       id="path8887"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3054-3-5"
+       transform="matrix(0,1.3255726,-1.3461602,0,747.40398,310.61571)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3056-7-7"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.89309132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.5"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect3058-9-0"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g3054-3-7"
+       transform="matrix(1.3255726,0,0,1.3461602,414.82518,424.70425)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3056-7-8"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.89309132;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.5"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect3058-9-8"
+         style="fill:none;stroke:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 601.46881,561.02027 19.40775,0 0,10.07628 -0.44108,-0.17678"
+       id="path8924"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5821-9-6"
+       transform="matrix(1.3305085,0,0,1.3305085,381.39071,354.92756)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5823-0-1"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5825-8-3"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5827-9-6"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5829-3-1"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g15152-1-5-1-95-4"
+       transform="matrix(-0.43758468,0,0,-0.33758151,382.99944,778.68835)"
+       style="stroke-width:4.47490692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g15154-0-0-3-6-4"
+         transform="matrix(1,0,0,0.982133,0,0.9330199)"
+         style="stroke-width:4.51542759;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="path15156-9-1-6-7-2"
+           d="m 243,99 36,0"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15158-9-4-3-3-2"
+           d="m 243,117 36,0"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15160-6-5-0-7-2"
+           d="m 261,54 0,44.648784"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15162-8-6-1-2-8"
+           d="m 261,117.98512 0,44.01489"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <rect
+           style="fill:none;stroke:none"
+           id="rect15164-3-2-9-2-8"
+           width="72"
+           height="108.74136"
+           x="225"
+           y="53.424179" />
+      </g>
+    </g>
+    <g
+       id="g15152-1-5-1-95-1"
+       transform="matrix(-0.43758468,0,0,-0.33758151,379.96941,553.12524)"
+       style="stroke-width:4.47490692;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g15154-0-0-3-6-0"
+         transform="matrix(1,0,0,0.982133,0,0.9330199)"
+         style="stroke-width:4.51542759;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="path15156-9-1-6-7-26"
+           d="m 243,99 36,0"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15158-9-4-3-3-8"
+           d="m 243,117 36,0"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15160-6-5-0-7-20"
+           d="m 261,54 0,44.648784"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path15162-8-6-1-2-5"
+           d="m 261,117.98512 0,44.01489"
+           style="fill:none;stroke:#000000;stroke-width:3.41301227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <rect
+           style="fill:none;stroke:none"
+           id="rect15164-3-2-9-2-86"
+           width="72"
+           height="108.74136"
+           x="225"
+           y="53.424179" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path15156-9-1-6-7-9"
+       d="m 640.56316,569.29081 0,-15.75305"
+       style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path15158-9-4-3-3-4"
+       d="m 646.53106,569.29081 0,-15.75305"
+       style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path15162-8-6-1-2-0"
+       d="m 646.8577,561.41429 18.66226,0"
+       style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect15164-3-2-9-2-3"
+       width="31.506098"
+       height="36.053192"
+       x="-576.81378"
+       y="641.34167"
+       transform="matrix(0,-1,1,0,0,0)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 621.07216,560.93189 19.40775,0 0,7.42462 -0.44108,-0.13025"
+       id="path8924-8"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path15162-8-6-1-2-0-0"
+       d="m 666.0655,561.67867 0,8.65899"
+       style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       id="g5821-9-6-0"
+       transform="matrix(1.3305085,0,0,1.3305085,426.04935,354.04368)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5823-0-1-9"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5825-8-3-5"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5827-9-6-8"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5829-3-1-2"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-9"
+       transform="matrix(1.496822,0,0,1.496822,242.76184,339.98783)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-2"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-4"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-4"
+             y="186.73039"
+             x="286.09805"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="286.09805"
+               id="tspan14984-0-8-5-4-5-7"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">10kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-2"
+       transform="matrix(1.496822,0,0,1.496822,254.88833,378.41194)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-20"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-5"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-5"
+             y="186.73039"
+             x="281.09622"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="281.09622"
+               id="tspan14984-0-8-5-4-5-8"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">1μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-3"
+       transform="matrix(1.496822,0,0,1.496822,302.85331,335.99518)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-5-86"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">10μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-96"
+       transform="matrix(1.496822,0,0,1.496822,342.92617,379.50694)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-6"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-3"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-48"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-5-75"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">100kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       style="stroke-width:1.73701346;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(0.748411,0,0,0.748411,524.95992,591.53081)"
+       id="g14978-4-7-8-9-8-6-9">
+      <g
+         style="stroke-width:1.73701346;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(4.597656,-60.640479)"
+         id="g14980-1-7-7-8-4-3-4">
+        <text
+           xml:space="preserve"
+           style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+           x="270.2309"
+           y="186.73039"
+           id="text14982-2-0-4-2-2-48-5"><tspan
+             style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+             sodipodi:role="line"
+             id="tspan14984-0-8-5-4-5-75-9"
+             x="270.2309"
+             y="186.73039">1kΩ</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:15.96610165px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+       x="759.22034"
+       y="612.99902"
+       id="text14982-2-0-4-2-2-48-5-9"><tspan
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+         sodipodi:role="line"
+         id="tspan14984-0-8-5-4-5-75-9-7"
+         x="759.22034"
+         y="612.99902">100kΩ</tspan></text>
+    <g
+       style="stroke-width:0.86850673;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g9284"
+       transform="matrix(1.496822,0,0,1.496822,401.9194,473.52745)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 833.32534,398.71869 13.08148,0 0,24.74873 -15.2028,0 0.17678,-24.74873 z"
+         id="path9280"
+         inkscape:connector-curvature="0"
+         transform="matrix(0.66808211,0,0,0.66808211,-263.21307,-186.90239)"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 846.40681,398.71868 14.67247,-12.90469 0,49.85103 -14.49569,-12.02082"
+         id="path9282"
+         inkscape:connector-curvature="0"
+         transform="matrix(0.66808211,0,0,0.66808211,-263.21307,-186.90239)"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path9288"
+       d="m 795.29969,572.51076 49.14392,0 0,19.79899"
+       style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path9290"
+       d="m 844.26684,617.58882 0,36.23922"
+       style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       id="g3014-1-1"
+       transform="matrix(1.3255726,0,0,1.3255726,605.58889,403.02427)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3016-3-2"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3018-2-8"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3020-2-5"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3022-2-4"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-9-3"
+       transform="matrix(1.496822,0,0,1.496822,542.45933,395.7704)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-2-2"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-4-2"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-4-6"
+             y="186.73039"
+             x="278.80667"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="278.80667"
+               id="tspan14984-0-8-5-4-5-7-2"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">8Ω</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-9"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,285.74255,581.47642)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-8"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,230.16494,581.52533)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,527.42023,512.22886)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-0"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,572.67507,512.93597)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+       x="751.93628"
+       y="557.26782"
+       id="text9418"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9420"
+         x="751.93628"
+         y="557.26782"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">OPA551P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+       x="516.15112"
+       y="583.56567"
+       id="text9418-5"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="-25.705078"
+       inkscape:transform-center-y="-37"><tspan
+         sodipodi:role="line"
+         id="tspan9420-5"
+         x="516.15112"
+         y="583.56567"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">OPA552PA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:cmr10;-inkscape-font-specification:cmr10"
+       x="306.8764"
+       y="436.5657"
+       id="text9418-5-0"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="-25.705078"
+       inkscape:transform-center-y="-37"><tspan
+         sodipodi:role="line"
+         id="tspan9420-5-1"
+         x="306.8764"
+         y="436.5657"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">TL081</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="302.3728"
+       y="666.50708"
+       id="text9418-5-0-2"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="-25.705078"
+       inkscape:transform-center-y="-37"><tspan
+         sodipodi:role="line"
+         id="tspan9420-5-1-2"
+         x="302.3728"
+         y="666.50708"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">TL081</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.3481493px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 251.37913,442.68358 15.10902,0"
+       id="path14877-6-0-4-5-4-5"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.3481493px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 203.85757,442.68358 12.13333,0"
+       id="path15014-7-7-9-48-0-0-1"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g14940-3-4-1-1-4-0-0"
+       transform="matrix(0,1.3481485,-1.3480664,0,397.36139,187.79527)"
+       style="stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14942-6-8-2-7-0-8-2"
+         d="m 189.06539,108.20251 -4.43461,2.21392 8.86922,4.42784 -8.86922,4.42783 8.86922,4.42783 -8.86922,4.42783 8.86922,4.42784 -4.43461,2.21392"
+         style="fill:none;stroke:#000000;stroke-width:0.90002739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="27"
+         rx="2461.6499"
+         y="108"
+         x="180"
+         height="27"
+         width="18"
+         id="rect14944-1-3-9-6-2-0-7"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g7719-8"
+       transform="translate(69.458746,-317.95898)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14863-9-6-5-5-9-5-6-3"
+         d="m 132.57449,791.19791 4.85102,0"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14865-3-1-3-1-4-5-2-8"
+         d="m 127.72346,785.23494 14.55308,0"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14867-4-1-3-0-3-9-1-9"
+         d="m 122.87245,779.27196 24.2551,0"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path14869-4-1-2-1-7-0-1-0"
+         d="m 135.00577,760.75108 0,18.45448"
+         style="fill:none;stroke:#000000;stroke-width:1.34814799px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-4-49-1"
+       transform="matrix(1.2765957,0,0,1.2765957,-67.232398,250.57427)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-7-6-9"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-1-8-6"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-6-73-4"
+             y="186.73039"
+             x="301.50208"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="301.50208"
+               id="tspan14984-0-8-5-4-4-7-0"
+               sodipodi:role="line"
+               style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">100kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9610"
+       transform="matrix(0,1,-1,0,1012.3488,-188.29905)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 554.53426,527.51561 0,-15.75305"
+         id="path15156-9-1-6-7-9-9"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.50216,527.51561 0,-15.75305"
+         id="path15158-9-4-3-3-4-1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.8288,519.63909 18.66226,0"
+         id="path15162-8-6-1-2-0-7"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8924-8-9"
+         d="m 535.04326,519.15669 19.40775,0 0,7.42462 -0.44108,-0.13025"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-3-5"
+       transform="matrix(1.496822,0,0,1.496822,167.89398,171.57275)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7-4"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0-8"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0-0"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-5-86-3"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">10μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9610-4"
+       transform="matrix(0,1,-1,0,1047.7968,-188.28934)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 554.53426,527.51561 0,-15.75305"
+         id="path15156-9-1-6-7-9-9-9"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.50216,527.51561 0,-15.75305"
+         id="path15158-9-4-3-3-4-1-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.8288,519.63909 18.66226,0"
+         id="path15162-8-6-1-2-0-7-4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8924-8-9-2"
+         d="m 535.04326,519.15669 19.40775,0 0,7.42462 -0.44108,-0.13025"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 492.59058,346.53925 99.88436,0"
+       id="path9676"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g14976-5-5-0-4-8-3-5-9"
+       transform="matrix(1.496822,0,0,1.496822,197.70745,173.35174)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7-4-2"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0-8-9"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0-0-9"
+             y="182.05382"
+             x="293.36398"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+             xml:space="preserve"><tspan
+               y="182.05382"
+               x="293.36398"
+               id="tspan14984-0-8-5-4-5-86-3-5"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">10μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9610-4-1"
+       transform="matrix(0,1,-1,0,1080.1663,-188.83248)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 554.53426,527.51561 0,-15.75305"
+         id="path15156-9-1-6-7-9-9-9-8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.50216,527.51561 0,-15.75305"
+         id="path15158-9-4-3-3-4-1-3-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.8288,519.63909 18.66226,0"
+         id="path15162-8-6-1-2-0-7-4-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8924-8-9-2-0"
+         d="m 535.04326,519.15669 19.40775,0 0,7.42462 -0.44108,-0.13025"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-3-5-9-9"
+       transform="matrix(1.496822,0,0,1.496822,237.57686,170.30859)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7-4-2-5"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0-8-9-7"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0-0-9-5"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-5-86-3-5-1"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">1μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9610-4-1-6"
+       transform="matrix(0,1,-1,0,1111.2559,-188.7154)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 554.53426,527.51561 0,-15.75305"
+         id="path15156-9-1-6-7-9-9-9-8-8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.50216,527.51561 0,-15.75305"
+         id="path15158-9-4-3-3-4-1-3-4-7"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.8288,519.63909 18.66226,0"
+         id="path15162-8-6-1-2-0-7-4-1-0"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8924-8-9-2-0-1"
+         d="m 535.04326,519.15669 19.40775,0 0,7.42462 -0.44108,-0.13025"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-3-5-9-9-2"
+       transform="matrix(1.496822,0,0,1.496822,266.41652,173.67568)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7-4-2-5-4"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0-8-9-7-8"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0-0-9-5-6"
+             y="182.05382"
+             x="273.57132"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="182.05382"
+               x="273.57132"
+               id="tspan14984-0-8-5-4-5-86-3-5-1-9"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">1μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 491.9275,391.76069 174.11816,0"
+       id="path9676-7"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-3"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,434.84652,342.79534)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-4"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,467.19831,342.96927)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-7"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,498.09402,343.62141)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-1"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,467.54616,297.57391)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-13"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,435.19438,297.92177)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-0"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,400.05938,298.26962)" />
+    <g
+       id="g9570-7"
+       transform="matrix(0.5,0,0,0.5,538.18472,-533.04472)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\thermalp.png"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9572-4"
+         d="m -108,1701 36,18"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="1692"
+         x="-108"
+         height="36"
+         width="36"
+         id="rect9574-2"
+         style="fill:none;stroke:none" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.16999996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 493.18472,322.65543 0,23.4337"
+       id="path9590-9"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\thermalp.png"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <g
+       id="g9570-7-8"
+       transform="matrix(-0.5,0,0,-0.5,546.74272,1328.7823)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\thermalp.png"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9572-4-6"
+         d="m -108,1701 36,18"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="1692"
+         x="-108"
+         height="36"
+         width="36"
+         id="rect9574-2-5"
+         style="fill:none;stroke:none" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.16999996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 591.74272,450.04918 0,23.4337"
+       id="path9590-9-4"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\thermalp.png"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200" />
+    <g
+       id="g5821-9-9"
+       transform="matrix(1.3305085,0,0,1.3305085,426.3376,139.86751)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5823-0-11"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5825-8-0"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5827-9-2"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5829-3-3"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 438.14165,404.17597 154.84185,0"
+       id="path9676-6"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5821-9-9-2"
+       transform="matrix(1.3305085,0,0,1.3305085,198.48585,152.3012)"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5823-0-11-6"
+         d="m 178.19658,207 3.59828,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5825-8-0-9"
+         d="m 174.59829,202.52493 10.79486,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5827-9-2-6"
+         d="m 171.00001,198.04986 17.99142,0"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5829-3-3-7"
+         d="M 180,189.42275 180,198"
+         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-3"
+       transform="matrix(1.496822,0,0,1.496822,-212.50822,248.87059)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-26"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-49"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-8"
+             y="186.73039"
+             x="295.04861"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="295.04861"
+               id="tspan14984-0-8-5-4-70"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">ANT</tspan></text>
+        </g>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10512"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(9.7807826,161.58506)"><flowRegion
+         id="flowRegion10514"><rect
+           id="rect10516"
+           width="86.620583"
+           height="76.721085"
+           x="105.00536"
+           y="198.60747"
+           style="font-size:8px" /></flowRegion><flowPara
+         id="flowPara10518" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10520"
+       style="font-size:8px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion10522"><rect
+           id="rect10524"
+           width="67.175148"
+           height="80.610176"
+           x="117.73328"
+           y="200.02168" /></flowRegion><flowPara
+         id="flowPara10526" /></flowRoot>    <g
+       id="g14976-5-5-0-4-4-8"
+       transform="matrix(1.2765957,0,0,1.2765957,6.6296638,335.80309)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-7-3"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-1-5"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-6-8"
+             y="186.73039"
+             x="285.95703"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="285.95703"
+               id="tspan14984-0-8-5-4-4-0"
+               sodipodi:role="line"
+               style="font-size:15.66666698px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">100kΩ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9610-1"
+       transform="matrix(0,1,-1,0,1012.411,-130.33523)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 554.53426,527.51561 0,-15.75305"
+         id="path15156-9-1-6-7-9-9-6"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.50216,527.51561 0,-15.75305"
+         id="path15158-9-4-3-3-4-1-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.8288,519.63909 18.66226,0"
+         id="path15162-8-6-1-2-0-7-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8924-8-9-1"
+         d="m 535.04326,519.15669 19.40775,0 0,7.42462 -0.44108,-0.13025"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-3-5-3"
+       transform="matrix(1.496822,0,0,1.496822,167.95621,229.53657)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7-4-7"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0-8-7"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0-0-0"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-5-86-3-0"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">10μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9610-4-3"
+       transform="matrix(0,1,-1,0,1047.859,-130.32552)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 554.53426,527.51561 0,-15.75305"
+         id="path15156-9-1-6-7-9-9-9-85"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.50216,527.51561 0,-15.75305"
+         id="path15158-9-4-3-3-4-1-3-0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.8288,519.63909 18.66226,0"
+         id="path15162-8-6-1-2-0-7-4-3"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8924-8-9-2-5"
+         d="m 535.04326,519.15669 19.40775,0 0,7.42462 -0.44108,-0.13025"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 492.65282,404.50307 99.88435,0"
+       id="path9676-9"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g14976-5-5-0-4-8-3-5-9-97"
+       transform="matrix(1.496822,0,0,1.496822,197.76968,231.31556)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7-4-2-0"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0-8-9-8"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0-0-9-6"
+             y="182.05382"
+             x="293.36398"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+             xml:space="preserve"><tspan
+               y="182.05382"
+               x="293.36398"
+               id="tspan14984-0-8-5-4-5-86-3-5-9"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">10μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9610-4-1-3"
+       transform="matrix(0,1,-1,0,1080.2285,-130.86866)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 554.53426,527.51561 0,-15.75305"
+         id="path15156-9-1-6-7-9-9-9-8-5"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.50216,527.51561 0,-15.75305"
+         id="path15158-9-4-3-3-4-1-3-4-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.8288,519.63909 18.66226,0"
+         id="path15162-8-6-1-2-0-7-4-1-1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8924-8-9-2-0-0"
+         d="m 535.04326,519.15669 19.40775,0 0,7.42462 -0.44108,-0.13025"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-3-5-9-9-6"
+       transform="matrix(1.496822,0,0,1.496822,237.63909,228.27241)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7-4-2-5-1"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0-8-9-7-9"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0-0-9-5-8"
+             y="186.73039"
+             x="270.2309"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="186.73039"
+               x="270.2309"
+               id="tspan14984-0-8-5-4-5-86-3-5-1-7"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">1μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g9610-4-1-6-3"
+       transform="matrix(0,1,-1,0,1111.3181,-130.75158)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 554.53426,527.51561 0,-15.75305"
+         id="path15156-9-1-6-7-9-9-9-8-8-1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.50216,527.51561 0,-15.75305"
+         id="path15158-9-4-3-3-4-1-3-4-7-0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.30000007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 560.8288,519.63909 18.66226,0"
+         id="path15162-8-6-1-2-0-7-4-1-0-8"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8924-8-9-2-0-1-9"
+         d="m 535.04326,519.15669 19.40775,0 0,7.42462 -0.44108,-0.13025"
+         style="fill:none;stroke:#000000;stroke-width:1.29999995;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g14976-5-5-0-4-8-3-5-9-9-2-8"
+       transform="matrix(1.496822,0,0,1.496822,265.97875,232.3895)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g14978-4-7-8-9-8-7-4-2-5-4-0"
+         transform="matrix(0.5,0,0,0.5,82.201172,78.835937)"
+         style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="g14980-1-7-7-8-4-0-8-9-7-8-9"
+           transform="translate(4.597656,-60.671874)"
+           style="stroke-width:1.60000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none">
+          <text
+             id="text14982-2-0-4-2-2-0-0-9-5-6-1"
+             y="182.05382"
+             x="273.57132"
+             style="font-size:21.33333397px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans Narrow;-inkscape-font-specification:Liberation Sans Narrow Bold Condensed"
+             xml:space="preserve"><tspan
+               y="182.05382"
+               x="273.57132"
+               id="tspan14984-0-8-5-4-5-86-3-5-1-9-8"
+               sodipodi:role="line"
+               style="font-size:13.36164188px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">1μF</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-1-2"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,467.60839,355.53773)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-13-3"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,435.25661,355.88559)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-0-3"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,400.12161,355.48344)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 492.2217,449.33506 99.3323,0"
+       id="path9676-7-9"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-4-9"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,399.43208,400.21757)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-7-0"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,434.82779,400.36971)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.86542296;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path15020-5-7-8-1-4-4-9-1"
+       sodipodi:cx="301.5"
+       sodipodi:cy="157.5"
+       sodipodi:rx="4.5"
+       sodipodi:ry="4.5"
+       d="m 306,157.5 c 0,2.48528 -2.01472,4.5 -4.5,4.5 -2.48528,0 -4.5,-2.01472 -4.5,-4.5 0,-2.48528 2.01472,-4.5 4.5,-4.5 2.43351,0 4.42613,1.93459 4.49804,4.36704"
+       sodipodi:start="0"
+       sodipodi:end="6.2536333"
+       sodipodi:open="true"
+       transform="matrix(0.3097872,0,0,0.30978671,467.12994,400.29364)" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+       x="479.14426"
+       y="313.83505"
+       id="text10778"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10780"
+         x="479.14426"
+         y="313.83505">+12 <tspan
+   style="font-style:italic;-inkscape-font-specification:TeXGyreSchola Italic"
+   id="tspan10786">V</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola"
+       x="579.04968"
+       y="486.58505"
+       id="text10782"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10784"
+         x="579.04968"
+         y="486.58505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeXGyreSchola;-inkscape-font-specification:TeXGyreSchola">-12 <tspan
+   style="font-style:italic;-inkscape-font-specification:TeXGyreSchola Italic"
+   id="tspan10788">V</tspan></tspan></text>
+    <g
+       id="g14796-1-9-75-2"
+       transform="matrix(1.125,0,0,1.125,-102.02,418.93467)"
+       style="stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="C:\Documents and Settings\jmurmiranda\Desktop\all.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+  </g>
+</svg>

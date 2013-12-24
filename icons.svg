@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
@@ -14,9 +15,274 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="icons.svg">
   <defs
-     id="defs4" />
+     id="defs4">
+    <path
+       id="cv_element"
+       d="M -69.6503905 120.638015113  A 139.300781 139.300781 120 1 1 +69.6503905 120.638015113  L 27.7089845 47.9933689801  A 55.417969 55.417969 120 1 0 -27.7089845 47.9933689801  L -69.6503905 120.638015113  Z" />
+    <radialGradient
+       r="29.036913"
+       fy="132.28575"
+       fx="61.518883"
+       cy="132.28575"
+       cx="61.518883"
+       gradientTransform="matrix(2.382716e-8,-0.296405,1.43676,4.683673e-7,-128.544,150.5202)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient1480"
+       xlink:href="#linearGradient2795"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="114.39767"
+       x2="135.66525"
+       y1="20.603781"
+       x1="26.648937"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,-5.305317)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1478"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="137.27299"
+       x2="112.03144"
+       y1="192.35176"
+       x1="150.96111"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,-5.305317)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1475"
+       xlink:href="#linearGradient4671"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.177966,0,108.7434)"
+       r="29.036913"
+       fy="132.28575"
+       fx="61.518883"
+       cy="132.28575"
+       cx="61.518883"
+       id="radialGradient2801"
+       xlink:href="#linearGradient2795"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="76.313133"
+       x2="26.670298"
+       y1="76.176224"
+       x1="172.94208"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-11.5974,-7.60954)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2258"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="144.75717"
+       x2="-65.308502"
+       y1="144.75717"
+       x1="224.23996"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-11.5974,-7.60954)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2255"
+       xlink:href="#linearGradient4671"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="144.75717"
+       x2="-65.308502"
+       y1="144.75717"
+       x1="224.23996"
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2250"
+       xlink:href="#linearGradient4671"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="76.313133"
+       x2="26.670298"
+       y1="77.475983"
+       x1="172.94208"
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2248"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="144.75717"
+       x2="-65.308502"
+       y1="144.75717"
+       x1="224.23996"
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2589"
+       xlink:href="#linearGradient4671"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="76.313133"
+       x2="26.670298"
+       y1="77.475983"
+       x1="172.94208"
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2587"
+       xlink:href="#linearGradient4689"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4689"
+       id="linearGradient2990"
+       y2="76.313133"
+       x2="26.670298"
+       y1="77.475983"
+       x1="172.94208" />
+    <linearGradient
+       gradientTransform="translate(100.2702,99.61116)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4671"
+       id="linearGradient2987"
+       y2="144.75717"
+       x2="-65.308502"
+       y1="144.75717"
+       x1="224.23996" />
+    <linearGradient
+       id="linearGradient4689">
+      <stop
+         id="stop4691"
+         offset="0"
+         style="stop-color:#5a9fd4;stop-opacity:1;" />
+      <stop
+         id="stop4693"
+         offset="1"
+         style="stop-color:#306998;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4671">
+      <stop
+         id="stop4673"
+         offset="0"
+         style="stop-color:#ffd43b;stop-opacity:1;" />
+      <stop
+         id="stop4675"
+         offset="1"
+         style="stop-color:#ffe873;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3236">
+      <stop
+         id="stop3244"
+         offset="0"
+         style="stop-color:#f4f4f4;stop-opacity:1" />
+      <stop
+         id="stop3240"
+         offset="1"
+         style="stop-color:white;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3676">
+      <stop
+         id="stop3678"
+         offset="0"
+         style="stop-color:#b2b2b2;stop-opacity:0.5;" />
+      <stop
+         id="stop3680"
+         offset="1"
+         style="stop-color:#b3b3b3;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2787">
+      <stop
+         id="stop2789"
+         offset="0"
+         style="stop-color:#7f7f7f;stop-opacity:0.5;" />
+      <stop
+         id="stop2791"
+         offset="1"
+         style="stop-color:#7f7f7f;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2795">
+      <stop
+         id="stop2797"
+         offset="0"
+         style="stop-color:#b8b8b8;stop-opacity:0.49803922;" />
+      <stop
+         id="stop2799"
+         offset="1"
+         style="stop-color:#7f7f7f;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       y2="114.39767"
+       x2="135.66525"
+       y1="20.603781"
+       x1="26.648937"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,-5.305317)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1478-1"
+       xlink:href="#linearGradient4689-2"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4689-2">
+      <stop
+         id="stop4691-9"
+         offset="0"
+         style="stop-color:#ff2211;stop-opacity:1;" />
+      <stop
+         id="stop4693-1"
+         offset="1"
+         style="stop-color:#aa1100;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       y2="137.27299"
+       x2="112.03144"
+       y1="192.35176"
+       x1="150.96111"
+       gradientTransform="matrix(0.562541,0,0,0.567972,-9.399749,-5.305317)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1475-5"
+       xlink:href="#linearGradient4671-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4671-7">
+      <stop
+         id="stop4673-3"
+         offset="0"
+         style="stop-color:#ffd43b;stop-opacity:1;" />
+      <stop
+         id="stop4675-2"
+         offset="1"
+         style="stop-color:#ffe873;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       r="29.036913"
+       fy="132.28575"
+       fx="61.518883"
+       cy="132.28575"
+       cx="61.518883"
+       gradientTransform="matrix(2.382716e-8,-0.296405,1.43676,4.683673e-7,-128.544,150.5202)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient1480-5"
+       xlink:href="#linearGradient2795-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient2795-0">
+      <stop
+         id="stop2797-4"
+         offset="0"
+         style="stop-color:#b8b8b8;stop-opacity:0.49803922;" />
+      <stop
+         id="stop2799-6"
+         offset="1"
+         style="stop-color:#7f7f7f;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       r="29.036913"
+       fy="132.28575"
+       fx="61.518883"
+       cy="132.28575"
+       cx="61.518883"
+       gradientTransform="matrix(2.382716e-8,-0.296405,1.43676,4.683673e-7,-128.544,150.5202)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8405"
+       xlink:href="#linearGradient2795-0"
+       inkscape:collect="always" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +290,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90937954"
-     inkscape:cx="370.56413"
-     inkscape:cy="501.22788"
+     inkscape:zoom="1.476963"
+     inkscape:cx="319.13131"
+     inkscape:cy="-190.23601"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,8 +318,70 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
+       style="fill:none;stroke:#505050;stroke-opacity:1"
+       id="g3942-8-1"
+       transform="translate(-183.62276,393.04475)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-3-3-2-1"
+         d="m 309.30792,492.35757 -17.78795,0"
+         style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="matrix(-1.0078842,0,0,-1.0092527,743.82275,848.48467)"
+         d="m 460.5,352.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
+         sodipodi:ry="6"
+         sodipodi:rx="6"
+         sodipodi:cy="352.36218"
+         sodipodi:cx="454.5"
+         id="path3781-8-0-3-3"
+         style="fill:none;stroke:#505050;stroke-width:3.96601844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       style="fill:none;stroke:#505050;stroke-opacity:1"
+       id="g3946-1-9"
+       transform="translate(-183.62276,393.04473)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-31-5-1"
+         d="m 222.30792,411.86218 17.6488,0"
+         style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="matrix(1,0,0,-1,-208.80791,764.72436)"
+         d="m 460.5,352.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
+         sodipodi:ry="6"
+         sodipodi:rx="6"
+         sodipodi:cy="352.36218"
+         sodipodi:cx="454.5"
+         id="path3781-82-4-8"
+         style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 226.88684,781.55539 0,27.34995 c 0,0 23.37573,2.55201 23.38316,6.85396 -0.40771,7.35253 -45.45767,13.97844 -45.45767,4.85396 0,-9.12447 45.45767,-4.85556 45.45767,4.85396 0,9.70953 -45.45767,12.11086 -45.45767,4.85396 0,-7.25691 45.60445,-4.88674 45.60445,4.85396 0,9.7407 -45.60599,12.96814 -45.60445,4.85396 0.002,-8.11417 45.45767,-4.85556 45.45767,4.85396 0,9.70953 -45.45767,12.12155 -45.45767,4.85395 0,-7.26761 45.45767,-4.85557 45.45767,4.85396 0,9.70952 -45.45767,11.45839 -45.45767,4.85396 0,-6.60443 45.45767,-4.85556 45.45767,4.85396 0,9.70952 -45.45767,11.75485 -45.45767,4.85396 0,-6.90088 43.33624,-2.88096 45.45767,4.85396 0.39553,4.61126 -23.38316,5.73784 -23.38316,5.73784 l 0,24.59582"
+       id="path3824-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccczzzzzzzzzzzccc" />
+    <rect
+       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3864-2-2"
+       width="28.605398"
+       height="117.37972"
+       x="358.30978"
+       y="787.46606"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
        id="g5316"
-       transform="matrix(0.67508497,0,0,0.67508497,175.43446,48.268069)"
+       transform="matrix(0.67508497,0,0,0.67508497,-25.35421,-211.14503)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03">
@@ -120,7 +448,7 @@
     </g>
     <g
        id="g3950"
-       transform="translate(-21.794767,558.71196)">
+       transform="translate(801.51632,-540.84167)">
       <path
          transform="translate(247.84272,-136.15735)"
          d="m 225.56706,433.64374 c 0,33.97561 -27.54268,61.51829 -61.51829,61.51829 -33.97562,0 -61.51829,-27.54268 -61.51829,-61.51829 0,-33.97562 27.54267,-61.51829 61.51829,-61.51829 33.97561,0 61.51829,27.54267 61.51829,61.51829 z"
@@ -170,7 +498,7 @@
     </g>
     <g
        id="g3958"
-       transform="translate(-230.1974,-163.22021)"
+       transform="translate(-369.43042,-334.69666)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/solenoid-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03">
@@ -200,7 +528,7 @@
        sodipodi:rx="61.518291"
        sodipodi:ry="61.518291"
        d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
-       transform="translate(414.80735,-139.30307)"
+       transform="translate(214.01868,-300.52024)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03" />
@@ -209,14 +537,14 @@
        id="rect3864"
        width="28.605398"
        height="117.37972"
-       x="564.55341"
-       y="235.65079"
+       x="363.76474"
+       y="74.433609"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03" />
     <g
        id="g3962"
-       transform="translate(-97.559163,-151.44245)"
+       transform="translate(-178.16775,-319.98768)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03">
@@ -290,7 +618,7 @@
        sodipodi:rx="61.518291"
        sodipodi:ry="61.518291"
        d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
-       transform="translate(206.62281,149.91363)"
+       transform="translate(67.389791,-119.75874)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03" />
@@ -303,21 +631,21 @@
        sodipodi:rx="61.518291"
        sodipodi:ry="61.518291"
        d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
-       transform="translate(413.17633,143.11233)"
+       transform="translate(212.38766,-116.30076)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03" />
     <text
        xml:space="preserve"
        style="font-size:82.15197754px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Josefin Sans;-inkscape-font-specification:Josefin Sans Italic"
-       x="173.44702"
-       y="804.90607"
+       x="974.77393"
+       y="-209.64214"
        id="text3755-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3757-8"
-         x="173.44702"
-         y="804.90607"
+         x="974.77393"
+         y="-209.64214"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#505050;fill-opacity:1;font-family:Josefin Sans;-inkscape-font-specification:Josefin Sans">μ</tspan></text>
     <path
        sodipodi:type="arc"
@@ -328,37 +656,37 @@
        sodipodi:rx="61.518291"
        sodipodi:ry="61.518291"
        d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
-       transform="translate(-0.902335,149.91364)"
+       transform="translate(-81.510925,-116.82751)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="94.246773"
-       y="210.94258"
+       x="13.638183"
+       y="42.397346"
        id="text4035"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4037"
-         x="94.246773"
-         y="210.94258"
+         x="13.638183"
+         y="42.397346"
          style="fill:#505050;fill-opacity:1">Elec</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="92.828079"
-       y="499.85043"
+       x="12.219489"
+       y="233.10928"
        id="text4035-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4037-9"
-         x="92.828079"
-         y="499.85043"
+         x="12.219489"
+         y="233.10928"
          style="fill:#505050;fill-opacity:1">Mech</tspan></text>
     <g
        id="g4117-9"
-       transform="translate(-133.72822,114.09732)"
+       transform="translate(-214.33681,-152.64383)"
        style="fill:#ffffff;fill-opacity:1"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150.png"
        inkscape:export-xdpi="103.03"
@@ -392,7 +720,7 @@
     </g>
     <g
        id="g4117-9-0"
-       transform="translate(-3.2034237,398.40339)"
+       transform="translate(820.10767,-701.15024)"
        style="fill:#ffffff;fill-opacity:1">
       <path
          transform="matrix(0.89,0,0,0.89,41.62404,48.028467)"
@@ -423,7 +751,7 @@
     </g>
     <g
        id="g4869"
-       transform="translate(4,4)"
+       transform="translate(-76.60859,-262.74115)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03">
@@ -450,7 +778,8 @@
        id="g5022"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
        inkscape:export-xdpi="103.03"
-       inkscape:export-ydpi="103.03">
+       inkscape:export-ydpi="103.03"
+       transform="translate(-139.23302,-269.67237)">
       <path
          transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,419.48668,-65.491135)"
          d="m 459.79953,486.47986 c 0,19.41058 -15.73538,35.14597 -35.14597,35.14597 -19.41058,0 -35.14596,-15.73539 -35.14596,-35.14597 0,-19.41058 15.73538,-35.14597 35.14596,-35.14597 19.41059,0 35.14597,15.73539 35.14597,35.14597 z"
@@ -474,7 +803,7 @@
     </g>
     <path
        style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 350.72001,554.11151 -8.89902,8.89902"
+       d="m 211.48699,284.43914 -8.89902,8.89902"
        id="path4940"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
@@ -482,7 +811,7 @@
        inkscape:export-ydpi="103.03" />
     <path
        style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 400.32487,603.71636 -8.89902,8.89902"
+       d="m 261.09185,334.04399 -8.89902,8.89902"
        id="path4940-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
@@ -490,7 +819,7 @@
        inkscape:export-ydpi="103.03" />
     <path
        style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 365.07729,622.54957 0,21.28104 13.86492,-0.64488 0,-22.24836"
+       d="m 225.84427,352.8772 0,21.28104 13.86492,-0.64488 0,-22.24836"
        id="path4966"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
@@ -498,43 +827,44 @@
        inkscape:export-ydpi="103.03" />
     <g
        id="g5010"
-       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke:#505050;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round"
+       style="stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
        inkscape:export-xdpi="103.03"
-       inkscape:export-ydpi="103.03">
+       inkscape:export-ydpi="103.03"
+       transform="translate(-139.23302,-269.67237)">
       <path
          inkscape:connector-curvature="0"
          id="path4982"
          d="m 339.49135,575.3871 28.72794,29.86794 -23.02796,-40.12792"
-         style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <g
          id="g5002"
-         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke:#505050;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round">
+         style="stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
         <path
-           style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m 353.39932,558.62913 14.13597,46.16992 -3.07799,-49.24791"
            id="path4984"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccc" />
         <g
            id="g4996"
-           style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke:#505050;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round">
+           style="stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
           <path
              sodipodi:nodetypes="ccc"
              inkscape:connector-curvature="0"
              id="path4986"
              d="m 374.48928,556.00714 -6.95399,49.4759 16.07397,-45.48591"
-             style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
           <g
              id="g4992"
-             style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke:#505050;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round">
+             style="stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
             <path
-               style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
                d="m 367.76329,603.65905 23.93995,-36.47993"
                id="path4988"
                inkscape:connector-curvature="0" />
             <path
-               style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+               style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
                d="M 367.76329,605.02705 397.63123,576.5271"
                id="path4990"
                inkscape:connector-curvature="0" />
@@ -551,13 +881,13 @@
        sodipodi:rx="28.385944"
        sodipodi:ry="28.385944"
        d="m 368.1053,576.86908 a 28.385944,28.385944 0 1 1 -56.77188,0 28.385944,28.385944 0 1 1 56.77188,0 z"
-       transform="matrix(0.98192771,0,0,1.0160643,34.696452,3.8430014)"
+       transform="matrix(0.98192771,0,0,1.0160643,-104.53657,-265.82937)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03" />
     <path
        style="fill:none;stroke:#505050;stroke-width:3.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 367.58167,604.81534 348.9727,583.41416"
+       d="M 228.34865,335.14297 209.73968,313.74179"
        id="path4968"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
@@ -572,13 +902,13 @@
        sodipodi:rx="5.585989"
        sodipodi:ry="5.585989"
        d="m 379.61925,600.12506 a 5.585989,5.585989 0 1 1 -11.17197,0 5.585989,5.585989 0 1 1 11.17197,0 z"
-       transform="translate(-5.7826558,5.2439899)"
+       transform="translate(-145.01568,-264.42838)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03" />
     <g
        id="g5034"
-       transform="matrix(0.746122,0.05434628,-0.05434628,0.746122,190.84215,127.96648)"
+       transform="matrix(0.746122,0.05434628,-0.05434628,0.746122,-9.9465199,-131.44661)"
        inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150.png"
        inkscape:export-xdpi="103.03"
        inkscape:export-ydpi="103.03">
@@ -605,7 +935,7 @@
     </g>
     <g
        id="g5327"
-       transform="translate(-53.807896,294.57543)">
+       transform="translate(769.5032,-804.9782)">
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -643,5 +973,1488 @@
          d="m 536.23915,541.18873 7.02048,-9.21007 4.00947,10.65282 z"
          style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
+    <g
+       id="g7368"
+       transform="translate(-127.9884,-30.309477)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         transform="matrix(0.67508497,0,0,0.67508497,93.557731,158.11732)"
+         d="m 639.0762,742.8197 c 0,14.95862 -28.0061,27.08497 -62.55337,27.08497 -34.54728,0 -62.55337,-12.12635 -62.55337,-27.08497 0,-14.95861 28.00609,-27.08496 62.55337,-27.08496 34.54727,0 62.55337,12.12635 62.55337,27.08496 z"
+         sodipodi:ry="27.084967"
+         sodipodi:rx="62.553371"
+         sodipodi:cy="742.8197"
+         sodipodi:cx="576.52283"
+         id="path5141-8"
+         style="fill:none;stroke:#aa1100;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <rect
+         y="637.05695"
+         x="429.25522"
+         height="31.553411"
+         width="104.51105"
+         id="rect5181-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 639.0762,742.8197 c 0,14.95862 -28.0061,27.08497 -62.55337,27.08497 -34.54728,0 -62.55337,-12.12635 -62.55337,-27.08497 0,-14.95861 28.00609,-27.08496 62.55337,-27.08496 34.54727,0 62.55337,12.12635 62.55337,27.08496 z"
+         sodipodi:ry="27.084967"
+         sodipodi:rx="62.553371"
+         sodipodi:cy="742.8197"
+         sodipodi:cx="576.52283"
+         id="path5141-2-9"
+         style="fill:none;stroke:#aa1100;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0,0.67508497,-0.67508497,0,995.05985,286.64267)" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path5302-6"
+         d="m 478.50934,636.74908 4.30974,8.61947 23.24177,22.01043 3.57787,4.17951 4.46604,-1.25428 0,-12.35303 -5.65954,-31.45395 -25.03255,4.78884"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4867-5-2-7-5"
+         d="m 512.61298,668.25672 7.81738,-0.096 -3.99824,6.56193 z"
+         style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4867-5-2-7-7-0"
+         d="m 445.1886,668.25672 7.81737,-0.096 -3.99823,6.56193 z"
+         style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4867-5-2-7-7-7-4"
+         d="m 477.11045,644.22746 6.88491,3.70386 -0.50645,-7.66734 z"
+         style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path5304-3"
+         d="m 513.7555,674.24984 -3.95345,1.53148 -7.76655,25.90544 -13.27813,6.74791 -6.96559,0.43535 -1.95907,3.91813 6.74791,11.9721 26.55628,-8.70698 1.52373,-37.00465 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4867-5-2-7-7-7-1-3"
+         d="m 476.60608,706.1907 6.88491,-3.70387 -0.50645,7.66734 z"
+         style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g3958-3"
+       transform="translate(-377.9887,52.701703)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/solenoid-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"
+       style="stroke:#aa1100;stroke-opacity:1;fill:none;fill-opacity:0">
+      <path
+         transform="translate(438.45123,30.718444)"
+         d="m 225.56706,433.64374 c 0,33.97561 -27.54268,61.51829 -61.51829,61.51829 -33.97562,0 -61.51829,-27.54268 -61.51829,-61.51829 0,-33.97562 27.54267,-61.51829 61.51829,-61.51829 33.97561,0 61.51829,27.54267 61.51829,61.51829 z"
+         sodipodi:ry="61.518291"
+         sodipodi:rx="61.518291"
+         sodipodi:cy="433.64374"
+         sodipodi:cx="164.04877"
+         id="path3759-3-38"
+         style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccczzzzzzzzzzzccc"
+         inkscape:connector-curvature="0"
+         id="path3824-7"
+         d="m 601.77227,403.21964 0,27.34995 c 0,0 23.37573,2.55201 23.38316,6.85396 -0.40771,7.35253 -45.45767,13.97844 -45.45767,4.85396 0,-9.12447 45.45767,-4.85556 45.45767,4.85396 0,9.70953 -45.45767,12.11086 -45.45767,4.85396 0,-7.25691 45.60445,-4.88674 45.60445,4.85396 0,9.7407 -45.60599,12.96814 -45.60445,4.85396 0.002,-8.11417 45.45767,-4.85556 45.45767,4.85396 0,9.70953 -45.45767,12.12155 -45.45767,4.85395 0,-7.26761 45.45767,-4.85557 45.45767,4.85396 0,9.70952 -45.45767,11.45839 -45.45767,4.85396 0,-6.60443 45.45767,-4.85556 45.45767,4.85396 0,9.70952 -45.45767,11.75485 -45.45767,4.85396 0,-6.90088 43.33624,-2.88096 45.45767,4.85396 0.39553,4.61126 -23.38316,5.73784 -23.38316,5.73784 l 0,24.59582"
+         style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:0" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:0"
+       id="path3759-8-5"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(205.4604,86.878123)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <rect
+       style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3864-2"
+       width="28.605398"
+       height="117.37972"
+       x="355.20645"
+       y="461.83197"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <text
+       xml:space="preserve"
+       style="font-size:82.15197754000000430px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aa1100;stroke:#aa1100;stroke-opacity:1;font-family:Josefin Sans;-inkscape-font-specification:Josefin Sans Italic;fill-opacity:1"
+       x="48.989761"
+       y="539.24762"
+       id="text3755-32"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"><tspan
+         sodipodi:role="line"
+         id="tspan3757-3"
+         x="48.989761"
+         y="539.24762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#aa1100;stroke:#aa1100;stroke-opacity:1;font-family:Josefin Sans;-inkscape-font-specification:Josefin Sans;fill-opacity:1">μ</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-23"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(-88.438187,86.351376)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       style="fill:none;stroke:#aa1100;stroke-opacity:1"
+       id="g3942-8"
+       transform="translate(-186.72603,67.410706)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-3-3-2"
+         d="m 309.30792,492.35757 -17.78795,0"
+         style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="matrix(-1.0078842,0,0,-1.0092527,743.82275,848.48467)"
+         d="m 460.5,352.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
+         sodipodi:ry="6"
+         sodipodi:rx="6"
+         sodipodi:cy="352.36218"
+         sodipodi:cx="454.5"
+         id="path3781-8-0-3"
+         style="fill:none;stroke:#aa1100;stroke-width:3.96601844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       style="fill:none;stroke:#aa1100;stroke-opacity:1"
+       id="g3946-1"
+       transform="translate(-186.72603,67.410688)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3779-31-5"
+         d="m 222.30792,411.86218 17.6488,0"
+         style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="matrix(1,0,0,-1,-208.80791,764.72436)"
+         d="m 460.5,352.36218 c 0,3.31371 -2.68629,6 -6,6 -3.31371,0 -6,-2.68629 -6,-6 0,-3.31371 2.68629,-6 6,-6 3.31371,0 6,2.68629 6,6 z"
+         sodipodi:ry="6"
+         sodipodi:rx="6"
+         sodipodi:cy="352.36218"
+         sodipodi:cx="454.5"
+         id="path3781-82-4"
+         style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-3-3-7"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(58.831508,217.63962)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-8-2-9"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(203.82938,221.0976)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-1-2"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(-90.069204,220.57085)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g4117-9-5"
+       transform="translate(-222.89509,184.75453)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-opacity:1"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         transform="matrix(0.89,0,0,0.89,41.62404,48.028467)"
+         d="m 309.94555,458.70471 c 0,13.41522 -10.87518,24.29041 -24.2904,24.29041 -13.41522,0 -24.2904,-10.87519 -24.2904,-24.29041 0,-13.41522 10.87518,-24.2904 24.2904,-24.2904 13.41522,0 24.2904,10.87518 24.2904,24.2904 z"
+         sodipodi:ry="24.290403"
+         sodipodi:rx="24.290403"
+         sodipodi:cy="458.70471"
+         sodipodi:cx="285.65515"
+         id="path4071-5-0-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4.4943819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4115-1-5"
+         d="M 313.22212,468.84617 294.76407,489.0677 258.207,466.96344 277.88223,444.2519"
+         style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="matrix(0.89,0,0,0.89,22.434618,69.64694)"
+         d="m 309.94555,458.70471 c 0,13.41522 -10.87518,24.29041 -24.2904,24.29041 -13.41522,0 -24.2904,-10.87519 -24.2904,-24.29041 0,-13.41522 10.87518,-24.2904 24.2904,-24.2904 13.41522,0 24.2904,10.87518 24.2904,24.2904 z"
+         sodipodi:ry="24.290403"
+         sodipodi:rx="24.290403"
+         sodipodi:cy="458.70471"
+         sodipodi:cx="285.65515"
+         id="path4071-2-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4.4943819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 80.456756,642.09193 c 0,0 39.616374,-19.12132 24.448284,30.71668"
+       id="path4221-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 80.495836,642.10016 c 0,0 39.626864,-18.6715 24.573254,30.53701"
+       id="path4221-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 110.10562,672.99763 -7.88119,8.48525 -2.956684,-10.99163 z"
+       id="path4867-56"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g5022-2"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"
+       transform="translate(-147.7913,67.72599)"
+       style="stroke:#aa1100;stroke-opacity:1">
+      <path
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,419.48668,-65.491135)"
+         d="m 459.79953,486.47986 c 0,19.41058 -15.73538,35.14597 -35.14597,35.14597 -19.41058,0 -35.14596,-15.73539 -35.14596,-35.14597 0,-19.41058 15.73538,-35.14597 35.14596,-35.14597 19.41059,0 35.14597,15.73539 35.14597,35.14597 z"
+         sodipodi:ry="35.145969"
+         sodipodi:rx="35.145969"
+         sodipodi:cy="486.47986"
+         sodipodi:cx="424.65356"
+         id="path4874-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 459.79953,486.47986 c 0,19.41058 -15.73538,35.14597 -35.14597,35.14597 -19.41058,0 -35.14596,-15.73539 -35.14596,-35.14597 0,-19.41058 15.73538,-35.14597 35.14596,-35.14597 19.41059,0 35.14597,15.73539 35.14597,35.14597 z"
+         sodipodi:ry="35.145969"
+         sodipodi:rx="35.145969"
+         sodipodi:cy="486.47986"
+         sodipodi:cx="424.65356"
+         id="path4874-7-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,411.9684,-57.972857)" />
+    </g>
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 202.92871,621.8375 -8.89902,8.89902"
+       id="path4940-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 252.53357,671.44235 -8.89902,8.89902"
+       id="path4940-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 217.28599,690.27556 0,21.28104 13.86492,-0.64488 0,-22.24836"
+       id="path4966-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g5010-6"
+       style="stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"
+       transform="translate(-147.7913,67.72599)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4982-8"
+         d="m 339.49135,575.3871 28.72794,29.86794 -23.02796,-40.12792"
+         style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         id="g5002-6"
+         style="stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 353.39932,558.62913 14.13597,46.16992 -3.07799,-49.24791"
+           id="path4984-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <g
+           id="g4996-2"
+           style="stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path4986-1"
+             d="m 374.48928,556.00714 -6.95399,49.4759 16.07397,-45.48591"
+             style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <g
+             id="g4992-8"
+             style="stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+            <path
+               style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 367.76329,603.65905 23.93995,-36.47993"
+               id="path4988-0"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="M 367.76329,605.02705 397.63123,576.5271"
+               id="path4990-5"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path5020-6"
+       sodipodi:cx="339.71936"
+       sodipodi:cy="576.86908"
+       sodipodi:rx="28.385944"
+       sodipodi:ry="28.385944"
+       d="m 368.1053,576.86908 a 28.385944,28.385944 0 1 1 -56.77188,0 28.385944,28.385944 0 1 1 56.77188,0 z"
+       transform="matrix(0.98192771,0,0,1.0160643,-113.09485,71.56899)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:3.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 219.79037,672.54133 201.1814,651.14015"
+       id="path4968-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4970-7"
+       sodipodi:cx="374.03326"
+       sodipodi:cy="600.12506"
+       sodipodi:rx="5.585989"
+       sodipodi:ry="5.585989"
+       d="m 379.61925,600.12506 a 5.585989,5.585989 0 1 1 -11.17197,0 5.585989,5.585989 0 1 1 11.17197,0 z"
+       transform="translate(-153.57396,72.96998)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g5034-0"
+       transform="matrix(0.746122,0.05434628,-0.05434628,0.746122,-18.504804,205.95175)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"
+       style="stroke:#aa1100;stroke-opacity:1">
+      <path
+         transform="matrix(1.4126984,0,0,1.4126984,-254.99891,-198.53797)"
+         d="m 595.22437,544.35785 c 0,5.60948 -4.54738,10.15686 -10.15687,10.15686 -5.60948,0 -10.15686,-4.54738 -10.15686,-10.15686 0,-5.60948 4.54738,-10.15686 10.15686,-10.15686 5.60949,0 10.15687,4.54738 10.15687,10.15686 z"
+         sodipodi:ry="10.156862"
+         sodipodi:rx="10.156862"
+         sodipodi:cy="544.35785"
+         sodipodi:cx="585.0675"
+         id="path5028-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:3.78487611;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5030-7"
+         d="m 580.80901,559.37087 56.00308,32.3334"
+         style="fill:none;stroke:#aa1100;stroke-width:5.34688854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5032-5"
+         d="m 563.96724,582.54744 59.2217,34.19166"
+         style="fill:none;stroke:#aa1100;stroke-width:5.34688854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-3-38-9"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(63.565802,409.0542)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-8-5-6"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(208.56367,412.51217)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <text
+       xml:space="preserve"
+       style="font-size:82.15197754px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#505050;fill-opacity:1;stroke:#505050;stroke-opacity:1;font-family:Josefin Sans;-inkscape-font-specification:Josefin Sans Italic"
+       x="52.09304"
+       y="864.88165"
+       id="text3755-32-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"><tspan
+         sodipodi:role="line"
+         id="tspan3757-3-6"
+         x="52.09304"
+         y="864.88165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#505050;fill-opacity:1;stroke:#505050;stroke-opacity:1;font-family:Josefin Sans;-inkscape-font-specification:Josefin Sans">μ</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-23-0"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(-85.334918,411.98542)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 220.38926,1015.9096 0,21.281 13.86492,-0.6449 0,-22.2483"
+       id="path4966-3-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-3-3-7-5"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(61.934772,543.27367)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-1-2-8"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(-86.965938,546.2049)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g4117-9-5-7"
+       transform="translate(-219.79182,510.38858)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#505050;stroke-opacity:1"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         transform="matrix(0.89,0,0,0.89,41.62404,48.028467)"
+         d="m 309.94555,458.70471 c 0,13.41522 -10.87518,24.29041 -24.2904,24.29041 -13.41522,0 -24.2904,-10.87519 -24.2904,-24.29041 0,-13.41522 10.87518,-24.2904 24.2904,-24.2904 13.41522,0 24.2904,10.87518 24.2904,24.2904 z"
+         sodipodi:ry="24.290403"
+         sodipodi:rx="24.290403"
+         sodipodi:cy="458.70471"
+         sodipodi:cx="285.65515"
+         id="path4071-5-0-4-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#505050;stroke-width:4.4943819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4115-1-5-7"
+         d="M 313.22212,468.84617 294.76407,489.0677 258.207,466.96344 277.88223,444.2519"
+         style="fill:#ffffff;fill-opacity:1;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="matrix(0.89,0,0,0.89,22.434618,69.64694)"
+         d="m 309.94555,458.70471 c 0,13.41522 -10.87518,24.29041 -24.2904,24.29041 -13.41522,0 -24.2904,-10.87519 -24.2904,-24.29041 0,-13.41522 10.87518,-24.2904 24.2904,-24.2904 13.41522,0 24.2904,10.87518 24.2904,24.2904 z"
+         sodipodi:ry="24.290403"
+         sodipodi:rx="24.290403"
+         sodipodi:cy="458.70471"
+         sodipodi:cx="285.65515"
+         id="path4071-2-9-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#505050;stroke-width:4.4943819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 83.560022,967.72598 c 0,0 39.616378,-19.12132 24.448278,30.71668"
+       id="path4221-8-8-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 83.599102,967.73421 c 0,0 39.626868,-18.6715 24.573248,30.53701"
+       id="path4221-4-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 113.20889,998.63168 -7.8812,8.48522 -2.95668,-10.9916 z"
+       id="path4867-56-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g5022-2-4"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"
+       transform="translate(-144.68803,393.36004)"
+       style="stroke:#505050;stroke-opacity:1">
+      <path
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,419.48668,-65.491135)"
+         d="m 459.79953,486.47986 c 0,19.41058 -15.73538,35.14597 -35.14597,35.14597 -19.41058,0 -35.14596,-15.73539 -35.14596,-35.14597 0,-19.41058 15.73538,-35.14597 35.14596,-35.14597 19.41059,0 35.14597,15.73539 35.14597,35.14597 z"
+         sodipodi:ry="35.145969"
+         sodipodi:rx="35.145969"
+         sodipodi:cy="486.47986"
+         sodipodi:cx="424.65356"
+         id="path4874-0-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 459.79953,486.47986 c 0,19.41058 -15.73538,35.14597 -35.14597,35.14597 -19.41058,0 -35.14596,-15.73539 -35.14596,-35.14597 0,-19.41058 15.73538,-35.14597 35.14596,-35.14597 19.41059,0 35.14597,15.73539 35.14597,35.14597 z"
+         sodipodi:ry="35.145969"
+         sodipodi:rx="35.145969"
+         sodipodi:cy="486.47986"
+         sodipodi:cx="424.65356"
+         id="path4874-7-1-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,411.9684,-57.972857)" />
+    </g>
+    <path
+       style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 206.03198,947.47155 -8.89902,8.89902"
+       id="path4940-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 255.63684,997.0764 -8.89902,8.899"
+       id="path4940-8-5-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g5010-6-9"
+       style="stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"
+       transform="translate(-144.68803,393.36004)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4982-8-1"
+         d="m 339.49135,575.3871 28.72794,29.86794 -23.02796,-40.12792"
+         style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         id="g5002-6-4"
+         style="stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 353.39932,558.62913 14.13597,46.16992 -3.07799,-49.24791"
+           id="path4984-7-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <g
+           id="g4996-2-8"
+           style="stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+          <path
+             sodipodi:nodetypes="ccc"
+             inkscape:connector-curvature="0"
+             id="path4986-1-8"
+             d="m 374.48928,556.00714 -6.95399,49.4759 16.07397,-45.48591"
+             style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <g
+             id="g4992-8-2"
+             style="stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+            <path
+               style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="m 367.76329,603.65905 23.93995,-36.47993"
+               id="path4988-0-6"
+               inkscape:connector-curvature="0" />
+            <path
+               style="fill:none;stroke:#505050;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="M 367.76329,605.02705 397.63123,576.5271"
+               id="path4990-5-0"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path5020-6-3"
+       sodipodi:cx="339.71936"
+       sodipodi:cy="576.86908"
+       sodipodi:rx="28.385944"
+       sodipodi:ry="28.385944"
+       d="m 368.1053,576.86908 a 28.385944,28.385944 0 1 1 -56.77188,0 28.385944,28.385944 0 1 1 56.77188,0 z"
+       transform="matrix(0.98192771,0,0,1.0160643,-109.99158,397.20304)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#505050;stroke-width:3.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 222.89364,998.17538 204.28467,976.7742"
+       id="path4968-9-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#505050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4970-7-3"
+       sodipodi:cx="374.03326"
+       sodipodi:cy="600.12506"
+       sodipodi:rx="5.585989"
+       sodipodi:ry="5.585989"
+       d="m 379.61925,600.12506 a 5.585989,5.585989 0 1 1 -11.17197,0 5.585989,5.585989 0 1 1 11.17197,0 z"
+       transform="translate(-150.47069,398.60403)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g5316-3"
+       transform="matrix(0.67508497,0,0,0.67508497,-29.117438,452.78234)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         d="m 639.0762,742.8197 c 0,14.95862 -28.0061,27.08497 -62.55337,27.08497 -34.54728,0 -62.55337,-12.12635 -62.55337,-27.08497 0,-14.95861 28.00609,-27.08496 62.55337,-27.08496 34.54727,0 62.55337,12.12635 62.55337,27.08496 z"
+         sodipodi:ry="27.084967"
+         sodipodi:rx="62.553371"
+         sodipodi:cy="742.8197"
+         sodipodi:cx="576.52283"
+         id="path5141-20"
+         style="fill:none;stroke:#505050;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <rect
+         y="709.45087"
+         x="497.26703"
+         height="46.73991"
+         width="154.81171"
+         id="rect5181-4"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 639.0762,742.8197 c 0,14.95862 -28.0061,27.08497 -62.55337,27.08497 -34.54728,0 -62.55337,-12.12635 -62.55337,-27.08497 0,-14.95861 28.00609,-27.08496 62.55337,-27.08496 34.54727,0 62.55337,12.12635 62.55337,27.08496 z"
+         sodipodi:ry="27.084967"
+         sodipodi:rx="62.553371"
+         sodipodi:cy="742.8197"
+         sodipodi:cx="576.52283"
+         id="path5141-2-93"
+         style="fill:none;stroke:#505050;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0,1,-1,0,1335.3906,190.38396)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5302-4"
+         d="m 570.2269,708.99484 6.38399,12.76798 34.42793,32.60394 6.59514,6.67082 5.32026,-2.33769 0,-18.29848 -8.38345,-46.59259 -37.0806,7.09369"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4867-5-2-7-1"
+         d="m 620.74445,755.66695 11.57984,-0.14222 -5.92256,9.72015 z"
+         style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4867-5-2-7-7-9"
+         d="m 520.86905,755.66695 11.57984,-0.14222 -5.92256,9.72015 z"
+         style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4867-5-2-7-7-7-0"
+         d="m 568.15473,720.07252 10.19858,5.48652 -0.7502,-11.3576 z"
+         style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5304-1"
+         d="m 621.6693,763.72899 -4.94474,1.98074 -11.50455,38.3736 -19.66884,9.99564 -10.31808,0.64488 -2.90196,5.80392 9.99564,17.73421 39.33769,-12.89761 2.25708,-54.81481 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4867-5-2-7-7-7-1-6"
+         d="m 567.40761,811.85836 10.19858,-5.48652 -0.7502,11.3576 z"
+         style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g5034-02"
+       transform="matrix(0.746122,0.05434628,-0.05434628,0.746122,-13.709748,532.48076)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         transform="matrix(1.4126984,0,0,1.4126984,-254.99891,-198.53797)"
+         d="m 595.22437,544.35785 c 0,5.60948 -4.54738,10.15686 -10.15687,10.15686 -5.60948,0 -10.15686,-4.54738 -10.15686,-10.15686 0,-5.60948 4.54738,-10.15686 10.15686,-10.15686 5.60949,0 10.15687,4.54738 10.15687,10.15686 z"
+         sodipodi:ry="10.156862"
+         sodipodi:rx="10.156862"
+         sodipodi:cy="544.35785"
+         sodipodi:cx="585.0675"
+         id="path5028-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#505050;stroke-width:3.78487611;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5030-1"
+         d="m 580.80901,559.37087 56.00308,32.3334"
+         style="fill:none;stroke:#505050;stroke-width:5.34688854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5032-8"
+         d="m 563.96724,582.54744 59.2217,34.19166"
+         style="fill:none;stroke:#505050;stroke-width:5.34688854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-8-2-7"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(208.62443,547.62661)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 209.22111,1111.9591 0,27.35 c 0,0 23.37573,2.552 23.38316,6.8539 -0.40771,7.3526 -45.45767,13.9785 -45.45767,4.854 0,-9.1245 45.45767,-4.8556 45.45767,4.854 0,9.7095 -45.45767,12.1108 -45.45767,4.8539 0,-7.2569 45.60445,-4.8867 45.60445,4.854 0,9.7407 -45.60599,12.9681 -45.60445,4.8539 0.002,-8.1141 45.45767,-4.8555 45.45767,4.854 0,9.7095 -45.45767,12.1216 -45.45767,4.8539 0,-7.2676 45.45767,-4.8555 45.45767,4.854 0,9.7095 -45.45767,11.4584 -45.45767,4.854 0,-6.6045 45.45767,-4.8556 45.45767,4.8539 0,9.7095 -45.45767,11.7549 -45.45767,4.854 0,-6.9009 43.33624,-2.881 45.45767,4.8539 0.39553,4.6113 -23.38316,5.7379 -23.38316,5.7379 l 0,24.5958"
+       id="path3824-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccczzzzzzzzzzzccc" />
+    <rect
+       style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3864-2-4"
+       width="28.605398"
+       height="117.37972"
+       x="340.64401"
+       y="1117.8698"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 108.01943,1215.8061 -17.78795,0"
+       id="path3779-3-3-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 19.01943,1135.3107 17.6488,0"
+       id="path3779-31-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3781-82-4-1"
+       sodipodi:cx="454.5"
+       sodipodi:cy="352.36218"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m 460.5,352.36218 a 6,6 0 1 1 -12,0 6,6 0 1 1 12,0 z"
+       transform="matrix(1,0,0,-1,-410.0964,1488.1728)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5141-8-8"
+       sodipodi:cx="576.52283"
+       sodipodi:cy="742.8197"
+       sodipodi:rx="62.553371"
+       sodipodi:ry="27.084967"
+       d="m 639.0762,742.8197 a 62.553371,27.084967 0 1 1 -125.10674,0 62.553371,27.084967 0 1 1 125.10674,0 z"
+       transform="matrix(0.67508497,0,0,0.67508497,-48.993129,783.84563)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect5181-5-2"
+       width="104.51105"
+       height="31.553411"
+       x="286.70435"
+       y="1262.7853"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       transform="matrix(0,0.67508497,-0.67508497,0,852.50899,912.37098)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:5.92517996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5141-2-9-5"
+       sodipodi:cx="576.52283"
+       sodipodi:cy="742.8197"
+       sodipodi:rx="62.553371"
+       sodipodi:ry="27.084967"
+       d="m 639.0762,742.8197 a 62.553371,27.084967 0 1 1 -125.10674,0 62.553371,27.084967 0 1 1 125.10674,0 z"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 335.95848,1262.4774 4.30974,8.6195 23.24177,22.0104 3.57787,4.1795 4.46604,-1.2543 0,-12.353 -5.65954,-31.454 -25.03255,4.7889"
+       id="path5302-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 202.72353,1346.3133 0,21.2811 13.86492,-0.6449 0,-22.2484"
+       id="path4966-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 370.06212,1293.985 7.81738,-0.096 -3.99824,6.562 z"
+       id="path4867-5-2-7-5-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.63774,1293.985 7.81737,-0.096 -3.99823,6.562 z"
+       id="path4867-5-2-7-7-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 334.55959,1269.9558 6.88491,3.7038 -0.50645,-7.6673 z"
+       id="path4867-5-2-7-7-7-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 371.20464,1299.9782 -3.95345,1.5314 -7.76655,25.9055 -13.27813,6.7479 -6.96559,0.4353 -1.95907,3.9182 6.74791,11.9721 26.55628,-8.707 1.52373,-37.0047 z"
+       id="path5304-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 334.05522,1331.919 6.88491,-3.7039 -0.50645,7.6674 z"
+       id="path4867-5-2-7-7-7-1-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-3-38-2"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(45.90007,739.45793)" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 369.88738,1310.9133 40.02793,27.1682"
+       id="path5030-7-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-8-5-2"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(190.89794,742.91591)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150r.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 356.06181,1327.2905 42.32842,28.7297"
+       id="path5032-5-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <text
+       xml:space="preserve"
+       style="font-size:82.15197754px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-opacity:1;font-family:Josefin Sans;-inkscape-font-specification:Josefin Sans Italic"
+       x="34.427296"
+       y="1195.2854"
+       id="text3755-32-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03"><tspan
+         sodipodi:role="line"
+         id="tspan3757-3-1"
+         x="34.427296"
+         y="1195.2854"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-opacity:1;font-family:Josefin Sans;-inkscape-font-specification:Josefin Sans">μ</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-23-3"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(-103.00065,742.38916)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#aa1100;stroke-width:3.96601844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3781-8-0-3-4"
+       sodipodi:cx="454.5"
+       sodipodi:cy="352.36218"
+       sodipodi:rx="6"
+       sodipodi:ry="6"
+       d="m 460.5,352.36218 a 6,6 0 1 1 -12,0 6,6 0 1 1 12,0 z"
+       transform="matrix(-1.0078842,0,0,-1.0092527,542.53426,1571.9332)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/uC-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-3-3-7-4"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(44.26905,873.67741)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-8-2-9-6"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(189.26692,877.13539)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-1-2-1"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(-104.63167,876.60864)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4.4943819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4071-5-0-4-9"
+       sodipodi:cx="285.65515"
+       sodipodi:cy="458.70471"
+       sodipodi:rx="24.290403"
+       sodipodi:ry="24.290403"
+       d="m 309.94555,458.70471 a 24.290403,24.290403 0 1 1 -48.5808,0 24.290403,24.290403 0 1 1 48.5808,0 z"
+       transform="matrix(0.89,0,0,0.89,-195.83351,888.82079)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 75.76457,1309.6385 57.30652,1329.86 20.74945,1307.7558 40.42468,1285.0442"
+       id="path4115-1-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4.4943819;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4071-2-9-8"
+       sodipodi:cx="285.65515"
+       sodipodi:cy="458.70471"
+       sodipodi:rx="24.290403"
+       sodipodi:ry="24.290403"
+       d="m 309.94555,458.70471 a 24.290403,24.290403 0 1 1 -48.5808,0 24.290403,24.290403 0 1 1 48.5808,0 z"
+       transform="matrix(0.89,0,0,0.89,-215.02293,910.43926)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.9000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 65.89429,1298.1297 c 0,0 39.61638,-19.1213 24.44829,30.7167"
+       id="path4221-8-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 65.93337,1298.1379 c 0,0 39.62687,-18.6715 24.57326,30.5371"
+       id="path4221-4-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:#aa1100;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 95.54316,1329.0354 -7.88119,8.4853 -2.95669,-10.9917 z"
+       id="path4867-56-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/reload-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4874-0-6"
+       sodipodi:cx="424.65356"
+       sodipodi:cy="486.47986"
+       sodipodi:rx="35.145969"
+       sodipodi:ry="35.145969"
+       d="m 459.79953,486.47986 a 35.145969,35.145969 0 1 1 -70.29193,0 35.145969,35.145969 0 1 1 70.29193,0 z"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,257.13292,658.27264)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,249.61464,665.79092)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4874-7-1-58"
+       sodipodi:cx="424.65356"
+       sodipodi:cy="486.47986"
+       sodipodi:rx="35.145969"
+       sodipodi:ry="35.145969"
+       d="m 459.79953,486.47986 a 35.145969,35.145969 0 1 1 -70.29193,0 35.145969,35.145969 0 1 1 70.29193,0 z"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 188.36625,1277.8753 -8.89902,8.899"
+       id="path4940-3-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 237.97111,1327.4801 -8.89902,8.8991"
+       id="path4940-8-5-83"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 177.13759,1299.1509 28.72794,29.8679 -23.02796,-40.1279"
+       id="path4982-8-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       style="stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="g5002-6-8"
+       transform="translate(-162.35376,723.76378)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4984-7-5"
+         d="m 353.39932,558.62913 14.13597,46.16992 -3.07799,-49.24791"
+         style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         style="stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g4996-2-2">
+        <path
+           style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 374.48928,556.00714 -6.95399,49.4759 16.07397,-45.48591"
+           id="path4986-1-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <g
+           style="stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="g4992-8-9">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4988-0-67"
+             d="m 367.76329,603.65905 23.93995,-36.47993"
+             style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4990-5-8"
+             d="M 367.76329,605.02705 397.63123,576.5271"
+             style="fill:none;stroke:#aa1100;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
+      </g>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path5020-6-0"
+       sodipodi:cx="339.71936"
+       sodipodi:cy="576.86908"
+       sodipodi:rx="28.385944"
+       sodipodi:ry="28.385944"
+       d="m 368.1053,576.86908 a 28.385944,28.385944 0 1 1 -56.77188,0 28.385944,28.385944 0 1 1 56.77188,0 z"
+       transform="matrix(0.98192771,0,0,1.0160643,-127.65731,727.60678)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       style="fill:none;stroke:#aa1100;stroke-width:3.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 205.22791,1328.5791 -18.60897,-21.4012"
+       id="path4968-9-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path4970-7-1"
+       sodipodi:cx="374.03326"
+       sodipodi:cy="600.12506"
+       sodipodi:rx="5.585989"
+       sodipodi:ry="5.585989"
+       d="m 379.61925,600.12506 a 5.585989,5.585989 0 1 1 -11.17197,0 5.585989,5.585989 0 1 1 11.17197,0 z"
+       transform="translate(-168.13642,729.00777)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pneumatic-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#aa1100;stroke-width:3.78487611;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5028-9-6"
+       sodipodi:cx="585.0675"
+       sodipodi:cy="544.35785"
+       sodipodi:rx="10.156862"
+       sodipodi:ry="10.156862"
+       d="m 595.22437,544.35785 a 10.156862,10.156862 0 1 1 -20.31373,0 10.156862,10.156862 0 1 1 20.31373,0 z"
+       transform="matrix(1.0540454,0.0767749,-0.0767749,1.0540454,-212.53777,699.99775)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/pantilt-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g8236"
+       transform="matrix(0.50962999,0,0,0.54061569,729.87267,-344.42014)">
+      <use
+         transform="matrix(1.25,0,0,1.25,571.20405,420.78391)"
+         id="red"
+         y="140"
+         x="298"
+         xlink:href="#cv_element"
+         style="fill:#ff0101"
+         width="1"
+         height="1" />
+      <use
+         transform="matrix(-1.25,0,0,-1.25,1713.7041,1458.2839)"
+         id="blue"
+         y="415"
+         x="457"
+         xlink:href="#cv_element"
+         style="fill:#0101ff"
+         width="1"
+         height="1" />
+      <use
+         transform="matrix(-0.625,-1.0825317,1.0825317,-0.625,388.20338,1352.6284)"
+         id="green"
+         y="415"
+         x="142"
+         xlink:href="#cv_element"
+         style="fill:#01ff01"
+         width="1"
+         height="1" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-8-8"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(370.24436,-302.41057)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g8236-3"
+       transform="matrix(0.11127459,0,0,0.11804013,429.0742,38.58742)"
+       style="fill:#505050;fill-opacity:1">
+      <use
+         transform="matrix(1.25,0,0,1.25,571.20405,420.78391)"
+         id="red-5"
+         y="140"
+         x="298"
+         xlink:href="#cv_element"
+         style="fill:#505050;fill-opacity:1"
+         width="1"
+         height="1" />
+      <use
+         transform="matrix(-1.25,0,0,-1.25,1713.7041,1458.2839)"
+         id="blue-1"
+         y="415"
+         x="457"
+         xlink:href="#cv_element"
+         style="fill:#505050;fill-opacity:1"
+         width="1"
+         height="1" />
+      <use
+         transform="matrix(-0.625,-1.0825317,1.0825317,-0.625,388.20338,1352.6284)"
+         id="green-8"
+         y="415"
+         x="142"
+         xlink:href="#cv_element"
+         style="fill:#505050;fill-opacity:1"
+         width="1"
+         height="1" />
+    </g>
+    <g
+       id="g8360"
+       transform="translate(1298.0084,-181.64482)">
+      <path
+         d="m 184.61344,61.929363 c 0,-14.56215 -4.15226,-22.03817 -12.45678,-22.44755 -3.30427,-0.15595 -6.53055,0.37039 -9.66912,1.58878 -2.505,0.89673 -4.19124,1.78372 -5.07823,2.68045 l 0,34.75812 c 5.31216,3.33351 10.02976,4.88329 14.14303,4.63962 8.70415,-0.57508 13.0611,-7.64172 13.0611,-21.21942 z m 10.24419,0.60432 c 0,7.39804 -1.73498,13.53871 -5.22444,18.422 -3.88909,5.5266 -9.27923,8.37275 -16.17042,8.52871 -5.1952,0.1657 -10.54635,-1.46207 -16.05346,-4.87355 l 0,31.590317 -8.90884,-3.17755 0,-70.120567 c 1.46206,-1.79346 3.34325,-3.3335 5.62407,-4.63961 5.30242,-3.08983 11.74524,-4.67861 19.32848,-4.75658 l 0.12671,0.12671 c 6.93018,-0.08773 12.27159,2.75843 16.02422,8.5287 3.4992,5.29267 5.25368,12.07665 5.25368,20.37142 z"
+         style="fill:#646464;fill-opacity:1"
+         id="path46"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 249.30487,83.265743 c 0,9.92254 -0.9942,16.794237 -2.9826,20.615097 -1.99816,3.82086 -5.79952,6.8717 -11.41385,9.14277 -4.55189,1.79346 -9.47417,2.76817 -14.75709,2.93387 l -1.47181,-5.61432 c 5.37064,-0.73103 9.15252,-1.46207 11.34561,-2.1931 4.31796,-1.46206 7.28108,-3.70389 8.90884,-6.706 1.30611,-2.446517 1.94942,-7.115367 1.94942,-14.026057 l 0,-2.3198 c -6.09193,2.76817 -12.47628,4.14251 -19.15303,4.14251 -4.38619,0 -8.25579,-1.37434 -11.58929,-4.14251 -3.74289,-3.01186 -5.61433,-6.83272 -5.61433,-11.46258 l 0,-37.07793 8.90884,-3.05084 0,37.3216 c 0,3.98656 1.28662,7.0569 3.85985,9.21101 2.57323,2.1541 5.90674,3.18729 9.99077,3.10932 4.08403,-0.08773 8.46047,-1.66676 13.10983,-4.75658 l 0,-43.54025 8.90884,0 0,48.41379 z"
+         style="fill:#646464;fill-opacity:1"
+         id="path48"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 284.08249,88.997033 c -1.06243,0.08772 -2.03714,0.12671 -2.93387,0.12671 -5.03925,0 -8.96733,-1.19889 -11.77449,-3.60642 -2.79742,-2.40753 -4.20099,-5.73129 -4.20099,-9.97127 l 0,-35.08953 -6.10168,0 0,-5.60457 6.10168,0 0,-14.88381 8.89909,-3.16781 0,18.05162 10.01026,0 0,5.60457 -10.01026,0 0,34.84585 c 0,3.34325 0.89673,5.71179 2.6902,7.09588 1.54004,1.14041 3.98656,1.79347 7.32006,1.95917 l 0,4.63961 z"
+         style="fill:#646464;fill-opacity:1"
+         id="path50"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 338.02288,88.266003 -8.90884,0 0,-34.38773 c 0,-3.49921 -0.81876,-6.51106 -2.44651,-9.02581 -1.88119,-2.84615 -4.49342,-4.26923 -7.84641,-4.26923 -4.08404,0 -9.19152,2.15411 -15.32242,6.46233 l 0,41.22044 -8.90885,0 0,-82.1972101 8.90885,-2.80716 0,37.4385701 c 5.6923,-4.14251 11.91093,-6.21864 18.66566,-6.21864 4.7176,0 8.53846,1.58877 11.46258,4.75658 2.93388,3.1678 4.39594,7.11537 4.39594,11.83296 l 0,37.1949 0,0 z"
+         style="fill:#646464;fill-opacity:1"
+         id="path52"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 385.37424,60.525783 c 0,-5.59483 -1.06242,-10.21495 -3.17755,-13.87011 -2.51474,-4.45442 -6.42332,-6.80347 -11.70625,-7.04715 -9.76658,0.56534 -14.64012,7.56375 -14.64012,20.97574 0,6.15042 1.01369,11.28713 3.06057,15.41015 2.61223,5.25368 6.53056,7.84641 11.755,7.75869 9.80557,-0.07798 14.70835,-7.81717 14.70835,-23.22732 z m 9.75685,0.05848 c 0,7.96338 -2.03714,14.5914 -6.10168,19.88407 -4.47391,5.92623 -10.65357,8.89909 -18.53897,8.89909 -7.81716,0 -13.90909,-2.97286 -18.30503,-8.89909 -3.98656,-5.29267 -5.97497,-11.92069 -5.97497,-19.88407 0,-7.48576 2.15411,-13.78238 6.46232,-18.90935 4.5519,-5.43888 10.53661,-8.16806 17.93464,-8.16806 7.39805,0 13.42174,2.72918 18.06137,8.16806 4.3082,5.12697 6.46232,11.42359 6.46232,18.90935 z"
+         style="fill:#646464;fill-opacity:1"
+         id="path54"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 446.20583,88.266003 -8.90884,0 0,-36.33715 c 0,-3.98656 -1.19889,-7.09588 -3.59667,-9.33772 -2.39779,-2.23208 -5.59483,-3.31401 -9.58139,-3.22628 -4.23023,0.07798 -8.25579,1.46206 -12.07664,4.14251 l 0,44.75864 -8.90884,0 0,-45.86006 c 5.12697,-3.73313 9.84456,-6.16991 14.15276,-7.31032 4.06455,-1.06243 7.65148,-1.58877 10.74131,-1.58877 2.11512,0 4.10352,0.20469 5.97496,0.61406 3.49921,0.80901 6.34535,2.31006 8.53845,4.51291 2.44651,2.43677 3.6649,5.3609 3.6649,8.78212 l 0,40.85006 z"
+         style="fill:#646464;fill-opacity:1"
+         id="path56"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path1948"
+         d="m 60.510156,6.3979729 c -4.583653,0.021298 -8.960939,0.4122177 -12.8125,1.09375 C 36.35144,9.4962267 34.291407,13.691825 34.291406,21.429223 l 0,10.21875 26.8125,0 0,3.40625 -26.8125,0 -10.0625,0 c -7.792459,0 -14.6157592,4.683717 -16.7500002,13.59375 -2.46182,10.212966 -2.5710151,16.586023 0,27.25 1.9059283,7.937852 6.4575432,13.593748 14.2500002,13.59375 l 9.21875,0 0,-12.25 c 0,-8.849902 7.657144,-16.656248 16.75,-16.65625 l 26.78125,0 c 7.454951,0 13.406253,-6.138164 13.40625,-13.625 l 0,-25.53125 c 0,-7.266339 -6.12998,-12.7247775 -13.40625,-13.9375001 -4.605987,-0.7667253 -9.385097,-1.1150483 -13.96875,-1.09375 z m -14.5,8.2187501 c 2.769547,0 5.03125,2.298646 5.03125,5.125 -2e-6,2.816336 -2.261703,5.09375 -5.03125,5.09375 -2.779476,-1e-6 -5.03125,-2.277415 -5.03125,-5.09375 -1e-6,-2.826353 2.251774,-5.125 5.03125,-5.125 z"
+         style="fill:url(#linearGradient1478);fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path1950"
+         d="m 91.228906,35.054223 0,11.90625 c 0,9.230755 -7.825895,16.999999 -16.75,17 l -26.78125,0 c -7.335833,0 -13.406249,6.278483 -13.40625,13.625 l 0,25.531247 c 0,7.26634 6.318588,11.54032 13.40625,13.625 8.487331,2.49561 16.626237,2.94663 26.78125,0 6.750155,-1.95439 13.406253,-5.88761 13.40625,-13.625 l 0,-10.218747 -26.78125,0 0,-3.40625 26.78125,0 13.406254,0 c 7.79246,0 10.69625,-5.435408 13.40624,-13.59375 2.79933,-8.398886 2.68022,-16.475776 0,-27.25 -1.92578,-7.757441 -5.60387,-13.59375 -13.40624,-13.59375 l -10.062504,0 z m -15.0625,64.65625 c 2.779478,3e-6 5.03125,2.277417 5.03125,5.093747 -2e-6,2.82635 -2.251775,5.125 -5.03125,5.125 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125 2e-6,-2.81633 2.261697,-5.093747 5.03125,-5.093747 z"
+         style="fill:url(#linearGradient1475);fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccc"
+         id="text3004"
+         style="font-size:15.16445827px;font-style:normal;font-weight:normal;line-height:125%;fill:#646464;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         d="m 463.5544,26.909383 1.56195,0 0,-9.79624 3.70013,0 0,-1.16766 -8.96221,0 0,1.16766 3.70013,0 0,9.79624 m 6.64702,0 1.33447,0 0,-8.94703 2.89641,8.945906 1.48569,0 3.01816,-8.915576 0,8.9167 1.45579,0 0,-10.9639 -1.92589,0 -3.29831,9.392857 -2.81297,-9.392857 -2.15335,0 0,10.9639"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.73406,0,0,0.809524,16.24958,27.00935)"
+         d="m 110.46717,132.28575 c 0,4.75334 -21.914896,8.60668 -48.948287,8.60668 -27.033391,0 -48.948284,-3.85334 -48.948284,-8.60668 0,-4.75334 21.914893,-8.60668 48.948284,-8.60668 27.033391,0 48.948287,3.85334 48.948287,8.60668 z"
+         sodipodi:ry="8.6066771"
+         sodipodi:rx="48.948284"
+         sodipodi:cy="132.28575"
+         sodipodi:cx="61.518883"
+         id="path1894"
+         style="opacity:0.44382025;fill:url(#radialGradient1480);fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g8485"
+       transform="matrix(0.73200342,0,0,0.73200342,134.0858,81.395827)">
+      <path
+         id="path1948-2"
+         d="m 544.44135,262.45163 c -4.58366,0.0213 -8.96094,0.41222 -12.8125,1.09375 -11.34622,2.00451 -13.40625,6.2001 -13.40625,13.9375 l 0,10.21875 26.8125,0 0,3.40625 -26.8125,0 -10.0625,0 c -7.79246,0 -14.61576,4.68372 -16.75,13.59375 -2.46182,10.21297 -2.57102,16.58603 0,27.25 1.90592,7.93785 6.45754,13.59375 14.25,13.59375 l 9.21875,0 0,-12.25 c 0,-8.8499 7.65714,-16.65625 16.75,-16.65625 l 26.78125,0 c 7.45495,0 13.40625,-6.13816 13.40625,-13.625 l 0,-25.53125 c 0,-7.26634 -6.12998,-12.72477 -13.40625,-13.9375 -4.60599,-0.76672 -9.3851,-1.11505 -13.96875,-1.09375 z m -14.5,8.21875 c 2.76954,0 5.03125,2.29865 5.03125,5.125 -1e-5,2.81634 -2.26171,5.09375 -5.03125,5.09375 -2.77948,0 -5.03125,-2.27741 -5.03125,-5.09375 0,-2.82635 2.25177,-5.125 5.03125,-5.125 z"
+         style="fill:#505050;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path1950-4"
+         d="m 575.1601,291.10788 0,11.90625 c 0,9.23076 -7.8259,17 -16.75,17 l -26.78125,0 c -7.33584,0 -13.40625,6.27849 -13.40625,13.625 l 0,25.53125 c 0,7.26634 6.31858,11.54032 13.40625,13.625 8.48733,2.49561 16.62623,2.94663 26.78125,0 6.75015,-1.95439 13.40625,-5.88761 13.40625,-13.625 l 0,-10.21875 -26.78125,0 0,-3.40625 26.78125,0 13.40625,0 c 7.79246,0 10.69625,-5.43541 13.40624,-13.59375 2.79933,-8.39888 2.68022,-16.47577 0,-27.25 -1.92578,-7.75744 -5.60387,-13.59375 -13.40624,-13.59375 l -10.0625,0 z m -15.0625,64.65625 c 2.77947,10e-6 5.03125,2.27742 5.03125,5.09375 -1e-5,2.82635 -2.25178,5.125 -5.03125,5.125 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125 0,-2.81633 2.26169,-5.09375 5.03125,-5.09375 z"
+         style="fill:#505050;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-8-8-7"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(369.05447,-118.99853)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/aesthetics-round-150.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
+    <g
+       id="g8485-6"
+       transform="matrix(0.73200342,0,0,0.73200342,106.55025,1068.0666)"
+       style="stroke:none;stroke-opacity:0.98431373000000000;fill:#aa1100;fill-opacity:1"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/python-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03">
+      <path
+         id="path1948-2-6"
+         d="m 544.44135,262.45163 c -4.58366,0.0213 -8.96094,0.41222 -12.8125,1.09375 -11.34622,2.00451 -13.40625,6.2001 -13.40625,13.9375 l 0,10.21875 26.8125,0 0,3.40625 -26.8125,0 -10.0625,0 c -7.79246,0 -14.61576,4.68372 -16.75,13.59375 -2.46182,10.21297 -2.57102,16.58603 0,27.25 1.90592,7.93785 6.45754,13.59375 14.25,13.59375 l 9.21875,0 0,-12.25 c 0,-8.8499 7.65714,-16.65625 16.75,-16.65625 l 26.78125,0 c 7.45495,0 13.40625,-6.13816 13.40625,-13.625 l 0,-25.53125 c 0,-7.26634 -6.12998,-12.72477 -13.40625,-13.9375 -4.60599,-0.76672 -9.3851,-1.11505 -13.96875,-1.09375 z m -14.5,8.21875 c 2.76954,0 5.03125,2.29865 5.03125,5.125 -1e-5,2.81634 -2.26171,5.09375 -5.03125,5.09375 -2.77948,0 -5.03125,-2.27741 -5.03125,-5.09375 0,-2.82635 2.25177,-5.125 5.03125,-5.125 z"
+         style="fill:#aa1100;fill-opacity:1;stroke:none;stroke-opacity:0.98431373000000000"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path1950-4-7"
+         d="m 575.1601,291.10788 0,11.90625 c 0,9.23076 -7.8259,17 -16.75,17 l -26.78125,0 c -7.33584,0 -13.40625,6.27849 -13.40625,13.625 l 0,25.53125 c 0,7.26634 6.31858,11.54032 13.40625,13.625 8.48733,2.49561 16.62623,2.94663 26.78125,0 6.75015,-1.95439 13.40625,-5.88761 13.40625,-13.625 l 0,-10.21875 -26.78125,0 0,-3.40625 26.78125,0 13.40625,0 c 7.79246,0 10.69625,-5.43541 13.40624,-13.59375 2.79933,-8.39888 2.68022,-16.47577 0,-27.25 -1.92578,-7.75744 -5.60387,-13.59375 -13.40624,-13.59375 l -10.0625,0 z m -15.0625,64.65625 c 2.77947,10e-6 5.03125,2.27742 5.03125,5.09375 -1e-5,2.82635 -2.25178,5.125 -5.03125,5.125 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125 0,-2.81633 2.26169,-5.09375 5.03125,-5.09375 z"
+         style="fill:#aa1100;fill-opacity:1;stroke:none;stroke-opacity:0.98431373000000000"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#505050;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3759-8-8-7-2"
+       sodipodi:cx="164.04877"
+       sodipodi:cy="433.64374"
+       sodipodi:rx="61.518291"
+       sodipodi:ry="61.518291"
+       d="m 225.56706,433.64374 a 61.518291,61.518291 0 1 1 -123.03658,0 61.518291,61.518291 0 1 1 123.03658,0 z"
+       transform="translate(341.51892,867.67223)"
+       inkscape:export-filename="/home/fbourke/Documents/F2013/POE/confectionerycannon/pages/confectonerycannon/python-round-150rg.png"
+       inkscape:export-xdpi="103.03"
+       inkscape:export-ydpi="103.03" />
   </g>
 </svg>
