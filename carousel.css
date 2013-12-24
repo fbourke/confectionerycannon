@@ -238,9 +238,9 @@ myCarousel{
   letter-spacing: -1px;
 }
 
-@media (max-width: 768px) {
-  #smaller_mobile_carousel_heading {
-    font-size: 160%;
+@media (max-width: 768px) { /* yes I know this isn't mobile first. Sue me. */
+  .smaller_mobile_carousel_heading {
+    font-size: 180%;
   }
   .btn-lg {
   padding: 5px 10px;
@@ -248,6 +248,24 @@ myCarousel{
   line-height: 1.5;
   border-radius: 3px;
 }
+  .featurette-image {
+    position: relative;
+    margin: 0 auto;
+}
+
+  #the-team-h1 {
+  font-size: 48px;
+}
+  #the-team {
+    margin-top: -70px;
+    margin-bottom: -70px;  
+  }
+
+  .featurette-divider {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
 }
 
 /* RESPONSIVE CSS
