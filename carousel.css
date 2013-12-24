@@ -266,6 +266,10 @@ myCarousel{
     margin-bottom: 30px;
   }
 
+  .sub-jumbo {
+    height: 250px;
+  }
+
 }
 
 /* RESPONSIVE CSS
