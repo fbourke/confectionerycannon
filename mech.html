@@ -34,12 +34,16 @@
     $(function() {
         $("img").unveil(300);
     });
+
+    function changeImage(element) {
+      element.src = element.id;
+    }
     </script>
 
   </head>
 <!-- NAVBAR
 ================================================== -->
-  <body>
+  <body id="top">
     
     <!-- Marketing messaging and featurettes
     ================================================== -->
@@ -89,10 +93,10 @@
         <div class="col-md-7">
           <h2 class="featurette-heading">Our Reloading Mechanism.<span class="text-muted">It uses two nano servos and a variety of custom-fabricated components.</span></h2>
           <p class="lead">Our reloading mechanism can hold around six marshmallows.</p>
-          <p>The marshmallows are held in an acrylic magazine. One servo, an HXT900 microservo, is used to cue marshmallows for loading and prevent multiple marshmallows from falling into the barrel. The barrel is sealed by a billet aluminium hatch, articulated by a metal-gear, digital microservo. Originally, this servo was an HXT900 as well, but unfortunately the nylon gears proved too weak and stripped each time the cannon was fired at high pressure. The reloading mechanism takes approximately one second to load a new marshmallow, making the limiting factor on firing rate the pneumatic system.</p>
+          <p>The marshmallows are held in an acrylic magazine. One servo, an HXT900 microservo, is used to cue marshmallows for loading and prevent multiple marshmallows from falling into the barrel. The barrel is sealed by a billet aluminium hatch, articulated by a metal-gear, digital microservo. The reloading mechanism takes approximately one second to load a new marshmallow, making it faster than the regulator recharges the <a href="#feat2">pneumatic system.</a></p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="loader.gif" data-src="reload500.jpg" alt="Picture of the reloading mechanism">
+          <img class="featurette-image img-responsive" src="loader.gif" data-src="reload_play.jpg" onclick="changeImage(this)" id="ReloadContSquare.gif" alt="Picture of the reloading mechanism">
         </div>
       </div>
 
@@ -106,12 +110,6 @@
           <h2 class="featurette-heading">Our pneumatic system. <span class="text-muted">It contains some air.</span></h2>
           <p class="lead">Our pneumatic system provides the impulse necessary to shoot our marshmallows.</p>
           <p>The first part of the pneumatic system is the compressor, capable of producing up to 135 PSI. We bought a used compressor that included a regulator and two (sadly quite inaccurate) gauges. The regulated output of the compressor is connected to our pressure reservoir that has its own more accurate pressure gauge as well as a safety release valve, set at 30 PSI. Our PVC reservoir has approximately three times the volume of the barrel of the launcher, which is plenty of air to launch the marshmallow. The actual launching is actuated by a standard solenoid-powered sprinkler valve, connected via relay with our microcontroller. When the solenoid is triggered, the air in the reservoir is released through a length of clear tubing to the barrel. After the valve closes, it takes a few seconds for the pressure in the reservoir to recover, based on the setting of the regulator.</p>
-          <p>It's important to remember that this might not the best way to construct such a reservoir. If the team had been less limited in budget or time, we would've done a number of things differently. The following are a few considerations someone looking to build a similar device might want to take into account.
-            <ul>
-              <li>PVC isn't technically rated for gas pressure. While it can perform well in many applications (such as this one), the pressure rating on the side of any PVC pipe or fitting is only for water pressure. With more money, a reservoir made from steel pipes and fittings would have been safer at low pressure at the same time as allowing us to experiment with higher pressures. </li>
-              <li>Our regulator is unfortunately rather lacking in precision. It came with our compressor, which we bought used, and might have been better new. As is, though, the regulator has issues with staying at the same pressure for a long period of time. Additionally, the output pressure varies slightly with the input. At the low pressures we required, this effect became significant. </li>
-              <li>The clear tube we used between the output of the sprinkler valve and the barrel of the cannon had a tendancy to become kinked. We resolved this issued by adding clear acrylic rings around tube where it tended to kink. This solution is less than optimal, it'd better to choose a tube less likely to kink.</li>
-            </ul>
           </p>
         </div>
       </div>
@@ -125,7 +123,7 @@
           <p>Our two-axis actuation is, again, powered with servos. The panning uses a continuous rotation standard-sized servo coupled to an angle-feedback potentiometer. To tilt the barrel, we used a high-torque metal-gear analog servo geared down for 60 degrees of range. The servo is coupled to the barrel through two billet aluminium blocks, one of which is supported with a bearing.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="loader.gif" data-src="pantilt500.jpg" alt="Pan Tilt System">
+          <img class="featurette-image img-responsive" src="loader.gif" data-src="pantilt_play.jpg" onclick="changeImage(this)" id="PanTiltSquare.gif" alt="Picture of the pantitl mechanism">
         </div>
       </div>
 
@@ -140,8 +138,8 @@
 
       <!-- FOOTER -->
       <footer>
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2013 Forrest Bourke Design &middot; <a href="why_would_you_think_we_have_terms?">Terms</a></p>
+        <p class="pull-right"><a href="#top">Back to top</a></p>
+        <p>&copy; 2013 Forrest Bourke Design &middot; <a href="faq.html">FAQ</a></p>
       </footer>
 
     </div><!-- /.container -->

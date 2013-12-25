@@ -84,6 +84,8 @@ color: #f81022;
 }
 
 
+
+
 /* JUMBOTRON CUSTOMIZATION
 ------------------------------
 */
@@ -224,6 +226,8 @@ myCarousel{
   font-weight: 300;
 }
 
+
+
 /* Featurettes
 ------------------------- */
 
@@ -281,6 +285,10 @@ myCarousel{
   .marketing {
     padding-left: 0;
     padding-right: 0;
+  }
+
+  .carousel-control {
+  font-size: 300%;
   }
 
   .jumbotron{
