@@ -21,8 +21,14 @@ body {
     src: url("http://typefront.com/fonts/825591970.eot");
     src: local("☺"),
     url("http://typefront.com/fonts/825591970.woff") format("woff"),
-    url("http://typefront.com/fonts/825591970.ttf") format("truetype"),
+    url("http://typefront.com/fonts/825591970.otf") format("opentype"),
     url("http://typefront.com/fonts/825591970.svg") format("svg");
+}
+
+@font-face
+{
+  font-family: "Lavanderia Sturdy";
+  src: url('lavanderia_sturdy.otf') format('opentype'), url('lavanderia_sturdy.woff') format('woff');
 }
 
 
@@ -59,7 +65,7 @@ color: #f81022;
 }
 .navbar-inverse .navbar-brand {
   color: #f81011;
-  font-family: "Lavanderia", "Lobster", script;
+  font-family: "Lavanderia Sturdy", "Lavanderia", "Lobster", script;
   font-variant: "Sturdy";
   font-size: 24px;
 }
@@ -91,7 +97,7 @@ color: #f81022;
 */
 .jumbotron{
   height: 200px;
-  font-family: "Lavanderia", "Lobster";
+  font-family: "Lavanderia Sturdy", "Lavanderia", "Lobster", script;
   color: #AA1100;
   width:100%;
   text-align: center;
@@ -293,7 +299,7 @@ myCarousel{
 
   .jumbotron{
     height: 200px;
-    font-family: "Lavanderia", "Lobster";
+    font-family: "Lavanderia Sturdy", "Lavanderia", "Lobster", script;
     color: #AA1100;
     width:100%;
     text-align: center;
